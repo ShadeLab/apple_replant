@@ -28,6 +28,8 @@ mkdir mergedfastq
 #rename files to remove -
 rename "-" "" *fastq
 
+/mnt/research/rdp/public/thirdParty/usearch10.0.240_i86linux64
+
 
 ./usearch64 -fastq_mergepairs *R1*.fastq -relabel @ -fastq_maxdiffs 10 -fastqout mergedfastq/merged.fq -fastq_merge_maxee 1.0 -fastq_minmergelen 250 -fastq_maxmergelen 300
 
@@ -39,21 +41,23 @@ rename "-" "" *fastq
 
 ```
 Totals:
-148325  Pairs (148.3k)
-115117  Merged (115.1k, 77.61%)
-40952  Alignments with zero diffs (27.61%)
-32366  Too many diffs (> 10) (21.82%)
-793  No alignment found (0.53%)
-0  Alignment too short (< 16) (0.00%)
-47  Merged too short (< 250)
-2  Merged too long (> 300)
-0  Exp.errs. too high (max=1.0) (0.00%)
-67  Staggered pairs (0.05%) merged & trimmed
-246.98  Mean alignment length
-253.02  Mean merged length
-0.72  Mean fwd expected errors
-1.35  Mean rev expected errors
-0.20  Mean merged expected errors
+4641655  Pairs (4.6M)
+   3763326  Merged (3.8M, 81.08%)
+   1380951  Alignments with zero diffs (29.75%)
+    851888  Too many diffs (> 10) (18.35%)
+     15877  No alignment found (0.34%)
+         0  Alignment too short (< 16) (0.00%)
+      9382  Merged too short (< 250)
+      1182  Merged too long (> 300)
+         0  Exp.errs. too high (max=1.0) (0.00%)
+     11556  Staggered pairs (0.25%) merged & trimmed
+    246.91  Mean alignment length
+    253.09  Mean merged length
+      0.50  Mean fwd expected errors
+      1.38  Mean rev expected errors
+      0.16  Mean merged expected errors
+[bintarti@dev-intel14-phi my_apple_replant]$
+
 ```
 
 ## Dereplicate sequences
@@ -61,11 +65,11 @@ Totals:
 ./usearch64 -fastx_uniques mergedfastq/merged.fq -fastqout mergedfastq/uniques_combined_merged.fastq -sizeout
 ```
 ###Output
-00:01 111Mb   100.0% Reading mergedfastq/merged.fq
-00:01 293Mb   100.0% DF
-00:01 295Mb  115117 seqs, 48603 uniques, 36256 singletons (74.6%)
-00:01 295Mb  Min size 1, median 1, max 5012, avg 2.37
-00:02 288Mb   100.0% Writing mergedfastq/uniques_combined_merged.fastq
+00:09 2.3Gb   100.0% Reading mergedfastq/merged.fq
+00:16 2.5Gb   100.0% DF
+00:16 2.5Gb  3763326 seqs, 1486603 uniques, 1094230 singletons (73.6%)
+000:16 2.5Gb  Min size 1, median 1, max 12244, avg 2.53
+00:41 2.5Gb   100.0% Writing mergedfastq/uniques_combined_merged.fastq
 
 
 ## Remove Singeltons
@@ -73,33 +77,41 @@ Totals:
 ./usearch64 -sortbysize mergedfastq/uniques_combined_merged.fastq -fastqout mergedfastq/nosigs_uniques_combined_merged.fastq -minsize 2
 ```
 ### Output
-00:00 73Mb    100.0% Reading mergedfastq/uniques_combined_merged.fastq
-00:00 39Mb   Getting sizes
-00:00 39Mb   Sorting 12347 sequences
-00:00 39Mb    100.0% Writing output
-
+00:04 938Mb   100.0% Reading mergedfastq/uniques_combined_merged.fastq
+00:04 904Mb  Getting sizes
+00:04 916Mb  Sorting 392373 sequences
+00:04 918Mb   100.0% Writing output
 
 ## Precluster Sequences
 ```
 ./usearch64 -cluster_fast mergedfastq/nosigs_uniques_combined_merged.fastq -centroids_fastq mergedfastq/denoised_nosigs_uniques_combined_merged.fastq -id 0.9 -maxdiffs 5 -abskew 10 -sizein -sizeout -sort size
 ```
 ### Output
-Seqs  12347 (12.3k)
-Clusters  5586
-Max size  10973 (11.0k)
-Avg size  14.1
-Min size  2
+Seqs  392373 (392.4k)
+  Clusters  103889 (103.9k)
+  Max size  23638 (23.6k)
+  Avg size  25.7
+  Min size  2
 Singletons  0, 0.0% of seqs, 0.0% of clusters
-Max mem  257Mb
-Time  1.00s
-Throughput  12.3k seqs/sec.
+   Max mem  505Mb
+      Time  03:14
+Throughput  2022.5 seqs/sec.
+
 
 ## Reference-based OTU picking using Silva database
-
 
 ```
 ./usearch64 -usearch_global mergedfastq/denoised_nosigs_uniques_combined_merged.fastq -id 0.97 -db /mnt/research/ShadeLab/WorkingSpace/Silva_v119_referencefiles/Silva_119_rep_set97.fna  -strand plus -uc mergedfastq/ref_seqs.uc -dbmatched mergedfastq/closed_reference.fasta -notmatchedfq mergedfastq/failed_closed.fq
 ```
+### Output
+00:03 299Mb   100.0% Reading /mnt/research/ShadeLab/WorkingSpace/Silva_v119_referencefiles/Silva_119_rep_set97.fna
+00:07 265Mb   100.0% Masking (fastnucleo)
+00:14 266Mb   100.0% Word stats
+00:14 266Mb   100.0% Alloc rows
+00:27 1.2Gb   100.0% Build index
+00:27 1.2Gb  CPU has 20 cores, defaulting to 10 threads
+06:15 1.2Gb   100.0% Searching denoised_nosigs_uniques_combined_merged.fastq, 36.3% matched
+
 Closed reference OTU picking:
 Pick OTUs based on the Silva database in the Shade Lab working space.
 Produce some output files - ref_seqs.uc (pre-clustered), closed_reference.fasta will be the matched ones, and failed_closed.fq will be used in de novo OTU picking
@@ -109,12 +121,11 @@ Produce some output files - ref_seqs.uc (pre-clustered), closed_reference.fasta 
 ```
 #sort by size
 ./usearch64 -sortbysize mergedfastq/failed_closed.fq -fastaout mergedfastq/sorted_failed_closed.fq
-
 #cluster de novo
 ./usearch64 -cluster_otus mergedfastq/sorted_failed_closed.fq -minsize 2 -otus mergedfastq/denovo_otus.fasta -relabel OTU_dn_ -uparseout denovo_out.up
 ```
 ### Output
-00:02 56Mb    100.0% 970 OTUs, 471 chimeras
+01:50 124Mb   100.0% 18926 OTUs, 27507 chimeras
 
 ## Combine the rep sets between de novo and reference-based OTU picking
 ```
@@ -126,8 +137,18 @@ cat mergedfastq/closed_reference.fasta mergedfastq/denovo_otus.fasta > mergedfas
 ./usearch64 -usearch_global mergedfastq/merged.fq -db mergedfastq/full_rep_set.fna  -strand plus -id 0.97 -uc OTU_map.uc -otutabout OTU_table.txt -biomout OTU_jsn.biom
 ```
 outputs here = OTU table and OTU_jsn.biom -> for goin in qiime
-
-
+00:01 64Mb    100.0% Reading mergedfastq/full_rep_set.fna
+00:01 30Mb    100.0% Masking (fastnucleo)
+00:01 31Mb    100.0% Word stats
+00:01 31Mb    100.0% Alloc rows
+00:02 104Mb   100.0% Build index
+00:02 137Mb  CPU has 20 cores, defaulting to 10 threads
+18:28 158Mb   100.0% Searching merged.fq, 92.7% matched
+3486854 / 3763326 mapped to OTUs (92.7%)
+18:28 158Mb  Writing OTU_table.txt
+18:28 158Mb  Writing OTU_table.txt ...done.
+18:28 158Mb  Writing OTU_jsn.biom
+18:28 158Mb  Writing OTU_jsn.biom ...done.
 
 
 # Part II: Switch to QIIME
