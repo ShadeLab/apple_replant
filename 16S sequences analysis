@@ -101,16 +101,16 @@ Throughput  2022.5 seqs/sec.
 ## Reference-based OTU picking using Silva database
 
 ```
-./usearch64 -usearch_global mergedfastq/denoised_nosigs_uniques_combined_merged.fastq -id 0.97 -db /mnt/research/ShadeLab/WorkingSpace/Silva_v119_referencefiles/Silva_119_rep_set97.fna  -strand plus -uc mergedfastq/ref_seqs.uc -dbmatched mergedfastq/closed_reference.fasta -notmatchedfq mergedfastq/failed_closed.fq
+./usearch64 -usearch_global mergedfastq/denoised_nosigs_uniques_combined_merged.fastq -id 0.97 -db /mnt/research/ShadeLab/WorkingSpace/SILVA_128_QIIME_release/rep_set/rep_set_16S_only/97/97_otus_16S.fasta  -strand plus -uc mergedfastq/ref_seqs.uc -dbmatched mergedfastq/closed_reference.fasta -notmatchedfq mergedfastq/failed_closed.fq
 ```
 ### Output
-00:03 299Mb   100.0% Reading /mnt/research/ShadeLab/WorkingSpace/Silva_v119_referencefiles/Silva_119_rep_set97.fna
-00:07 265Mb   100.0% Masking (fastnucleo)
-00:14 266Mb   100.0% Word stats
-00:14 266Mb   100.0% Alloc rows
-00:27 1.2Gb   100.0% Build index
-00:27 1.2Gb  CPU has 20 cores, defaulting to 10 threads
-06:15 1.2Gb   100.0% Searching denoised_nosigs_uniques_combined_merged.fastq, 36.3% matched
+00:17 286Mb   100.0% Reading /mnt/research/ShadeLab/WorkingSpace/SILVA_128_QIIME_release/rep_set/rep_set_16S_only/97/97_otus_16S.fastaet97.fna
+00:17 252Mb   100.0% Masking (fastnucleo)
+00:27 253Mb   100.0% Word stats          
+00:27 253Mb   100.0% Alloc rows
+00:47 1.1Gb   100.0% Build index
+00:47 1.1Gb  CPU has 28 cores, defaulting to 10 threads
+06:47 1.2Gb   100.0% Searching denoised_nosigs_uniques_combined_merged.fastq, 37.1% matched
 
 Closed reference OTU picking:
 Pick OTUs based on the Silva database in the Shade Lab working space.
