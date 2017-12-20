@@ -125,7 +125,7 @@ Produce some output files - ref_seqs.uc (pre-clustered), closed_reference.fasta 
 ./usearch64 -cluster_otus mergedfastq/sorted_failed_closed.fq -minsize 2 -otus mergedfastq/denovo_otus.fasta -relabel OTU_dn_ -uparseout denovo_out.up
 ```
 ### Output
-01:50 124Mb   100.0% 18926 OTUs, 27507 chimeras
+01:37 125Mb   100.0% 18778 OTUs, 27538 chimeras
 
 ## Combine the rep sets between de novo and reference-based OTU picking
 ```
@@ -137,18 +137,18 @@ cat mergedfastq/closed_reference.fasta mergedfastq/denovo_otus.fasta > mergedfas
 ./usearch64 -usearch_global mergedfastq/merged.fq -db mergedfastq/full_rep_set.fna  -strand plus -id 0.97 -uc OTU_map.uc -otutabout OTU_table.txt -biomout OTU_jsn.biom
 ```
 outputs here = OTU table and OTU_jsn.biom -> for goin in qiime
-00:01 64Mb    100.0% Reading mergedfastq/full_rep_set.fna
-00:01 30Mb    100.0% Masking (fastnucleo)
-00:01 31Mb    100.0% Word stats
-00:01 31Mb    100.0% Alloc rows
-00:02 104Mb   100.0% Build index
-00:02 137Mb  CPU has 20 cores, defaulting to 10 threads
-18:28 158Mb   100.0% Searching merged.fq, 92.7% matched
-3486854 / 3763326 mapped to OTUs (92.7%)
-18:28 158Mb  Writing OTU_table.txt
-18:28 158Mb  Writing OTU_table.txt ...done.
-18:28 158Mb  Writing OTU_jsn.biom
-18:28 158Mb  Writing OTU_jsn.biom ...done.
+00:01 66Mb    100.0% Reading mergedfastq/full_rep_set.fna
+00:01 32Mb    100.0% Masking (fastnucleo)                
+00:02 34Mb    100.0% Word stats          
+00:02 34Mb    100.0% Alloc rows
+00:03 108Mb   100.0% Build index
+00:03 141Mb  CPU has 28 cores, defaulting to 10 threads
+16:28 161Mb   100.0% Searching merged.fq, 92.7% matched
+3487950 / 3763326 mapped to OTUs (92.7%)               
+16:28 161Mb  Writing OTU_table.txt
+16:28 161Mb  Writing OTU_table.txt ...done.
+16:28 161Mb  Writing OTU_jsn.biom
+16:28 161Mb  Writing OTU_jsn.biom ...done.
 
 
 # Part II: Switch to QIIME
