@@ -5,8 +5,8 @@ raw sequence data stored on HPCC
 soil pore 16S DNA:  20 total files
 
 
-Moved Kravchenko sequences to working space for analysis
-ShadeLab/WorkingSpace/Grady/Kravchenko
+Moved apple replant sequences to working space for analysis
+ShadeLab/WorkingSpace/Bintarti/16S_analysis_apple_replant
 
 
 
@@ -161,8 +161,12 @@ assign_taxonomy.py -i full_rep_set.fna -o taxonomy -r /mnt/home/bintarti/SILVA_1
 ```
 
 ## Add taxonomy to OTU table
+# Convert OTU_table.txt. to OTU_table.from_txt_json.biom
+
 ```
-biom add-metadata -i OTU_jsn.biom -o otu_table_tax.biom --observation-metadata-fp=taxonomy/full_rep_set_tax_assignments.txt --sc-separated=taxonomy --observation-header=OTUID,taxonomy
+biom convert -i OTU_table.txt -o OTU_table.from_txt_json.biom --table-type="OTU table"
+
+biom add-metadata -i OTU_table.from_txt_json.biom -o otu_table_tax.biom --observation-metadata-fp=taxonomy/full_rep_set_tax_assignments.txt --sc-separated=taxonomy --observation-header=OTUID,taxonomy
 ```
 
 ## Filter non-bacteria/archaea
@@ -170,9 +174,9 @@ biom add-metadata -i OTU_jsn.biom -o otu_table_tax.biom --observation-metadata-f
 filter_taxa_from_otu_table.py -i otu_table_tax.biom -o otu_table_tax_filt.biom -n o__Streptophyta,o__Chlorophyta,f__mitochondria,Unassigned
 ```
 
-## Align sequences to GreenGenes with PyNast
+## Align sequences to SILVA_128_QIIME_release with PyNAST 
 ```
-align_seqs.py -i full_rep_set.fna -o alignment -t /mnt/home/kearnspa/gg_13_8_otus/rep_set_aligned/97_otus.fasta
+align_seqs.py -i /mnt/research/ShadeLab/WorkingSpace/Bintarti/16S_analysis_apple_replant/mergedfastq/full_rep_set.fna -o alignment -t /mnt/home/bintarti/SILVA_128_QIIME_release/rep_set_aligned/97/97_otus_aligned.fasta
 ```
 
 ## Filter excess gaps from alignment
