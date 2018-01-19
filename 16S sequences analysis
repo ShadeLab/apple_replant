@@ -211,3 +211,7 @@ summarize_taxa.py -i otu_table_tax_filt.biom -o taxa_sum
 ```
 make_otu_heatmap_html.py -i otu_table_tax_filt.biom -o OTU_Heatmap/
 ```
+## Creating a taxa_chart
+```
+plot_taxa_summary.py -i taxa_sum/otu_table_tax_filt_L3.txt -l Phylum -o Taxa_Charts -k white
+``
