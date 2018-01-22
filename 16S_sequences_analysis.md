@@ -161,7 +161,7 @@ assign_taxonomy.py -i full_rep_set.fna -o taxonomy -r /mnt/home/bintarti/SILVA_1
 ```
 
 ## Add taxonomy to OTU table
-# Convert OTU_table.txt. to OTU_table.from_txt_json.biom
+## Convert OTU_table.txt. to OTU_table.from_txt_json.biom
 
 ```
 biom convert -i OTU_table.txt -o OTU_table.from_txt_json.biom --table-type="OTU table"
@@ -173,7 +173,10 @@ biom add-metadata -i OTU_table.from_txt_json.biom -o otu_table_tax.biom --observ
 ```
 filter_taxa_from_otu_table.py -i otu_table_tax.biom -o otu_table_tax_filt.biom -n o__Streptophyta,o__Chlorophyta,f__mitochondria,Unassigned
 ```
-
+## Convert 
+```
+biom convert -i otu_table_tax_filt.biom -o otu_table_v2.txt --header-key taxonomy -b
+```
 ## Align sequences to SILVA_128_QIIME_release with PyNAST 
 ```
 align_seqs.py -i /mnt/research/ShadeLab/WorkingSpace/Bintarti/16S_analysis_apple_replant/mergedfastq/full_rep_set.fna -o alignment -t /mnt/home/bintarti/SILVA_128_QIIME_release/rep_set_aligned/97/97_otus_aligned.fasta
