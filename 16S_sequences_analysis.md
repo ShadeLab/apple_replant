@@ -196,7 +196,7 @@ make_phylogeny.py -i alignment/filtered_alignment/full_rep_set_aligned_pfiltered
 ```
 biom summarize-table -i otu_table_tax_filt.biom -o otu_table_summary.txt
 
-single_rarefaction.py -d 16618 -o single_rare.biom -i otu_table_tax_filt.biom
+single_rarefaction.py -d 26235 -o single_rare.biom -i otu_table_tax_filt.biom
 ```
 
 ## Calculate alpha and beta diversity
