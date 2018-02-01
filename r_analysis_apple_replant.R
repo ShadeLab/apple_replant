@@ -1,25 +1,34 @@
 #install.packages(c('vegan', 'tidyverse'))
+install.packages(c('vegan', 'tidyverse'))
 #install.packages('reshape')
+install.packages('reshape')
 #source("https://bioconductor.org/biocLite.R")
+source("https://bioconductor.org/biocLite.R")
 #biocLite()
+biocLite()
 library(vegan)
 library(dplyr)
 library(tidyr)
 library(ggplot2)
 library(reshape)
 
-#setwd('/Users/arifinabintarti/Documents/apple_replant/')
+#setwd('/Users/arifinabintarti/Documents/Parent/apple_replant/')
+setwd('/Users/arifinabintarti/Documents/Parent/apple_replant/')
+#print working directory for future references
+wd <- print(getwd())
 otu <- read.table('otu_table_v2.txt', sep='\t', header=T, row.names = 1)
-map <- read.table('clean_map_data.csv', header=TRUE)
+map <- read.table('clean_map_data.csv', sep=',', header=TRUE)
 head(otu)
 dim(otu)
 taxonomy <- otu[,'taxonomy']
+taxonomy
 otu <- otu[,-76]
 
 set.seed(13)
 #summary(otu)
 #min. number of sequences is ~26K
 #subsample to an even number of sequences per sample
+
 otu_even26k <- t(rrarefy(t(otu), min(colSums(otu))))
 head(otu_even26k)
 #summary(otu_even26k)
@@ -96,19 +105,82 @@ fig
 adonis(otu_dist~map2$site_name)
 adonis(otu_dist~map2$rootstock)
 adonis(otu_dist~map2$cultivar)
-
-
-#sample code for heatmap
-hc=colorRampPalette(c("#91bfdb","white","#fc8d59"), interpolate="linear")
-rowS=sort(rowSums(otu), decreasing=TRUE)
-otu2=otu[names(rowS),]
-dev.off()
-#setEPS()
+  
+#heatmap
+install.packages("gplots")
 library(gplots)
-#postscript("Figures/Fig5A.eps", width = 3.5, height=7, pointsize=10, paper="special")
-heatmap.2(as.numeric(otu2[1:20,]),col=hc(100),scale="column",key=TRUE,symkey=FALSE, trace="none", density.info="none",dendrogram="both", margins=c(5,13), srtCol=90)
+
+#select most abundant OTUs
+hc <- colorRampPalette(c("#91bfdb","white","#fc8d59"), interpolate="linear")
+rowS_ordered <- sort(rowSums(otu_even26k), decreasing=TRUE)
+otu2 <- otu_even26k[names(rowS_ordered),]
+dev.off()
+
 #dev.off()
+#setEPS()
+#postscript("Figures/Fig5A.eps", width = 3.5, height=7, pointsize=10, paper="special")
+heatmap.2(as.matrix(otu2[1:20,]),col=hc(100),scale="column",key=TRUE,symkey=FALSE, trace="none", density.info="none",dendrogram="both", margins=c(5,13), srtCol=90)
+
+
+#barplot
+install.packages("phyloseq")
+source('http://bioconductor.org/biocLite.R')
+biocLite('phyloseq')
+library(phyloseq)
+taxa_otu_table <- import_biom("/Users/arifinabintarti/Documents/Parent/Data/single_rare.biom")
+taxa_otu_table
+
+#annotate otu table
+rownames(map) <- map$sample_code
+phyloseq_map <- sample_data(map)
+taxa_otu_table_annotated <- merge_phyloseq(taxa_otu_table,phyloseq_map)
+
+#merge sample by site
+taxa_otu_table_annotated_merge <- merge_samples(taxa_otu_table_annotated, "site_name")
+sample_data(taxa_otu_table_annotated_merge)$site_name <- levels(sample_data(taxa_otu_table_annotated)$site_name)
+taxa_otu_table_annotated_merge <- transform_sample_counts(taxa_otu_table_annotated_merge, function(x) 100 * x/sum(x))
+
+#merge sample by cultivar
+taxa_otu_table_annotated_merge <- merge_samples(taxa_otu_table_annotated, "cultivar")
+sample_data(taxa_otu_table_annotated_merge)$cultivar <- levels(sample_data(taxa_otu_table_annotated)$cultivar)
+taxa_otu_table_annotated_merge <- transform_sample_counts(taxa_otu_table_annotated_merge, function(x) 100 * x/sum(x))
+
+#merge sample by rootstock
+taxa_otu_table_annotated_merge <- merge_samples(taxa_otu_table_annotated, "rootstock")
+sample_data(taxa_otu_table_annotated_merge)$rootstock <- levels(sample_data(taxa_otu_table_annotated)$rootstock)
+taxa_otu_table_annotated_merge <- transform_sample_counts(taxa_otu_table_annotated_merge, function(x) 100 * x/sum(x))
+
+#merge sample by sample_location
+taxa_otu_table_annotated_merge <- merge_samples(taxa_otu_table_annotated, "sample_location")
+sample_data(taxa_otu_table_annotated_merge)$sample_location <- levels(sample_data(taxa_otu_table_annotated)$sample_location)
+taxa_otu_table_annotated_merge <- transform_sample_counts(taxa_otu_table_annotated_merge, function(x) 100 * x/sum(x))
+#merge taxa by rank
+taxa_otu_table_annotated_merge <- tax_glom(taxa_otu_table_annotated_merge, taxrank = "Rank2")
+
+#plot bar
+plot_bar(taxa_otu_table_annotated_merge, "site_name", fill="Rank2")
+plot_bar(taxa_otu_table_annotated_merge, "cultivar", fill="Rank2")
+plot_bar(taxa_otu_table_annotated_merge, "rootstock", fill="Rank2")
+plot_bar(taxa_otu_table_annotated_merge, "sample_location", fill="Rank2")
+
 
 #for understanding which taxa are indicative of which rootstocks, etc
 #indicspec (indicator species analysis)
-#simper 
+ 
+#install indispec
+install.packages("")
+library(indicspecies)
+indval_otu <- multipatt(t(otu_even26k), cluster=map$cultivar, control = how(nperm = 999))
+
+
+
+
+
+
+
+
+
+
+
+
+
