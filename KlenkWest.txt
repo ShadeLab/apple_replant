@@ -1,0 +1,11 @@
+otuID	SilvaTaxonomy
+id.temp	GABT01019963.848.2718	D_0__Bacteria; D_1__Cyanobacteria; D_2__Chloroplast; Ambiguous_taxa; Ambiguous_taxa; Ambiguous_taxa; Ambiguous_taxa
+id.temp	HQ190266.1.1492	D_0__Bacteria; D_1__Acidobacteria; D_2__Blastocatellia; D_3__Blastocatellales; D_4__Blastocatellaceae (Subgroup 4); Ambiguous_taxa
+id.temp	FR746074.1.1400	D_0__Bacteria; D_1__Proteobacteria; D_2__Gammaproteobacteria; D_3__Pseudomonadales; D_4__Pseudomonadaceae; D_5__Pseudomonas
+id.temp	HM268999.1.1363	D_0__Bacteria; D_1__Bacteroidetes; D_2__Sphingobacteriia; D_3__Sphingobacteriales; D_4__Chitinophagaceae; D_5__uncultured; Ambiguous_taxa
+id.temp	HQ597865.1.1508	D_0__Bacteria; D_1__Acidobacteria; D_2__Subgroup 6; D_3__uncultured Acidobacteria bacterium; D_4__uncultured Acidobacteria bacterium; D_5__uncultured Acidobacteria bacterium; D_6__uncultured Acidobacteria bacterium
+id.temp	HM240922.1.1307	D_0__Bacteria; D_1__Proteobacteria; D_2__Alphaproteobacteria; D_3__Sphingomonadales; D_4__Sphingomonadaceae; D_5__Sphingomonas; D_6__uncultured bacterium
+id.temp	GQ461662.1.1398	D_0__Bacteria; D_1__Proteobacteria; D_2__Deltaproteobacteria; D_3__Desulfurellales; D_4__Desulfurellaceae; D_5__H16; Ambiguous_taxa
+id.temp	FQ659783.2.1361	D_0__Bacteria; D_1__Proteobacteria; D_2__Alphaproteobacteria; D_3__Rhizobiales; D_4__Bradyrhizobiaceae; D_5__Bradyrhizobium
+id.temp	HQ121028.1.1485	D_0__Bacteria; D_1__Proteobacteria; D_2__Gammaproteobacteria; D_3__Cellvibrionales; D_4__Cellvibrionaceae; D_5__Cellvibrio; D_6__uncultured bacterium
+id.temp	FN421989.1.1411	D_0__Bacteria; D_1__Proteobacteria; D_2__Betaproteobacteria; D_3__Burkholderiales; D_4__Comamonadaceae
