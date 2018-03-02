@@ -1,15 +1,25 @@
 #Example of a loop for Fina
 install.packages(c('vegan', 'tidyverse'))
+<<<<<<< HEAD
 install.packages('reshape')
 source("https://bioconductor.org/biocLite.R")
 biocLite()
+=======
+#install.packages('reshape')
+#source("https://bioconductor.org/biocLite.R")
+#biocLite()
+>>>>>>> 328757c190f948356fffac8b754a48bf793674be
 library(vegan)
 library(dplyr)
 library(tidyr)
 library(ggplot2)
 library(reshape)
 
+<<<<<<< HEAD
 setwd('/Users/arifinabintarti/Documents/Parent/apple_replant/')
+=======
+#setwd('/Users/arifinabintarti/Documents/apple_replant/')
+>>>>>>> 328757c190f948356fffac8b754a48bf793674be
 otu <- read.table('otu_table_v2.txt', sep='\t', header=T, row.names = 1)
 map <- read.table('clean_map_data.csv', header=TRUE, sep=",")
 head(otu)
@@ -37,6 +47,7 @@ tax=cbind(row.names(otu), as.character(taxonomy))
         pielou <- h/log(s)
         
         map.div <- map
+<<<<<<< HEAD
         dim(map)
 map2 <- map[c(1:55, 58:65, 68:75),] 
 map3 <- map[c(56:57, 66:67),]
@@ -45,6 +56,14 @@ block=unique(map3[,"site_name"])
 for (i in 1:length(block)){
   #subset the OTU table to only include those blocks
   temp=otu_even26k[,map3[,"site_name"]==block[i]]
+=======
+
+block=unique(map[,"site_name"])
+
+for (i in 1:length(block)){
+  #subset the OTU table to only include those blocks
+  temp=otu_even26k[,map[,"site_name"]==block[i]]
+>>>>>>> 328757c190f948356fffac8b754a48bf793674be
   
   #how many samples in this block?
   samples=ncol(temp)
