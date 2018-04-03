@@ -4,8 +4,6 @@ install.packages('reshape')
 source("https://bioconductor.org/biocLite.R")
 biocLite()
 install.packages('reshape')
-source("https://bioconductor.org/biocLite.R")
-biocLite()
 library(vegan)
 library(dplyr)
 library(tidyr)
@@ -26,6 +24,7 @@ tax=cbind(row.names(otu), as.character(taxonomy))
         otu <- otu[,-76]
         
         set.seed(13)
+        
         #summary(otu)
         #min. number of sequences is ~26K
         #subsample to an even number of sequences per sample
@@ -44,11 +43,12 @@ tax=cbind(row.names(otu), as.character(taxonomy))
         dim(map)
 map2 <- map[c(1:55, 58:65, 68:75),] 
 map3 <- map[c(56:57, 66:67),]
-block=unique(map3[,"site_name"])
+map4 <- map[c(62:65, 68:70),]
+block=unique(map2[,"site_name"])
 
 for (i in 1:length(block)){
   #subset the OTU table to only include those blocks
-  temp=otu_even26k[,map3[,"site_name"]==block[i]]
+  temp=otu_even26k[,map2[,"site_name"]==block[i]]
 
   #how many samples in this block?
   samples=ncol(temp)
