@@ -1,0 +1,11 @@
+otuID	SilvaTaxonomy
+id.temp	GU359072.1.1474	D_0__Bacteria; D_1__Acidobacteria; D_2__Subgroup 6
+id.temp	GQ871301.1.964	D_0__Archaea; D_1__Thaumarchaeota; D_2__Soil Crenarchaeotic Group(SCG); D_3__uncultured archaeon; D_4__uncultured archaeon; D_5__uncultured archaeon; D_6__uncultured archaeon
+id.temp	FQ659783.2.1361	D_0__Bacteria; D_1__Proteobacteria; D_2__Alphaproteobacteria; D_3__Rhizobiales; D_4__Bradyrhizobiaceae; D_5__Bradyrhizobium
+id.temp	HM268999.1.1363	D_0__Bacteria; D_1__Bacteroidetes; D_2__Sphingobacteriia; D_3__Sphingobacteriales; D_4__Chitinophagaceae; D_5__uncultured; Ambiguous_taxa
+id.temp	HQ190266.1.1492	D_0__Bacteria; D_1__Acidobacteria; D_2__Blastocatellia; D_3__Blastocatellales; D_4__Blastocatellaceae (Subgroup 4); Ambiguous_taxa
+id.temp	HQ597865.1.1508	D_0__Bacteria; D_1__Acidobacteria; D_2__Subgroup 6; D_3__uncultured Acidobacteria bacterium; D_4__uncultured Acidobacteria bacterium; D_5__uncultured Acidobacteria bacterium; D_6__uncultured Acidobacteria bacterium
+id.temp	GQ461662.1.1398	D_0__Bacteria; D_1__Proteobacteria; D_2__Deltaproteobacteria; D_3__Desulfurellales; D_4__Desulfurellaceae; D_5__H16; Ambiguous_taxa
+id.temp	FR746074.1.1400	D_0__Bacteria; D_1__Proteobacteria; D_2__Gammaproteobacteria; D_3__Pseudomonadales; D_4__Pseudomonadaceae; D_5__Pseudomonas
+id.temp	GQ302563.1.1481	D_0__Bacteria; D_1__Verrucomicrobia; D_2__Spartobacteria; D_3__Chthoniobacterales; D_4__DA101 soil group
+id.temp	GQ120637.1.1515	D_0__Bacteria; D_1__Acidobacteria; D_2__Subgroup 6; Ambiguous_taxa; Ambiguous_taxa; Ambiguous_taxa; Ambiguous_taxa
