@@ -1,0 +1,20 @@
+otuID	SilvaTaxonomy
+id.temp	SH010302.07FU_AF444350_refs	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Filobasidiales; f__Piskurozymaceae; g__Solicoccozyma
+id.temp	SH025281.07FU_HG935126_reps	k__Fungi
+id.temp	OTU_dn_2672	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+id.temp	OTU_dn_1682	k__Fungi; p__Mortierellomycota; c__Mortierellomycetes; o__Mortierellales; f__Mortierellaceae; g__Mortierella
+id.temp	SH010301.07FU_AF444319_refs	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+id.temp	OTU_dn_2995	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+id.temp	SH017862.07FU_KF493986_reps	k__Fungi; p__Ascomycota
+id.temp	OTU_dn_1879	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_1029	k__Fungi; p__Mortierellomycota; c__Mortierellomycetes; o__Mortierellales; f__Mortierellaceae; g__Mortierella
+	OTU_dn_1027	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_1024	k__Fungi; p__Ascomycota
+	OTU_dn_1022	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Pleosporaceae
+	OTU_dn_1026	k__Fungi; p__Ascomycota
+	OTU_dn_1023	k__Fungi; p__Ascomycota
+	OTU_dn_1021	k__Fungi
+	OTU_dn_1020	k__Fungi; p__Ascomycota
+	OTU_dn_1025	k__Fungi; p__Ascomycota
+	OTU_dn_102	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Tricholomataceae; g__Gerronema; s__Gerronema_strombodes
+id.temp	SH479820.07FU_KJ160145_reps_singleton	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium; s__Fusarium_oxysporum

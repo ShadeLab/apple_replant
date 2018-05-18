@@ -1,0 +1,20 @@
+otuID	SilvaTaxonomy
+id.temp	SH010302.07FU_AF444350_refs	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Filobasidiales; f__Piskurozymaceae; g__Solicoccozyma
+id.temp	SH025281.07FU_HG935126_reps	k__Fungi
+id.temp	OTU_dn_1029	k__Fungi; p__Mortierellomycota; c__Mortierellomycetes; o__Mortierellales; f__Mortierellaceae; g__Mortierella
+id.temp	OTU_dn_2672	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+id.temp	OTU_dn_2995	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+id.temp	SH484342.07FU_KF359676_reps_singleton	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Hyaloscyphaceae; g__unidentified; s__unidentified
+id.temp	OTU_dn_2425	k__Fungi; p__Ascomycota
+	OTU_dn_1497	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_1493	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_149	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Sporidiobolales
+	OTU_dn_1492	k__Fungi; p__Chytridiomycota; c__Rhizophlyctidomycetes; o__Rhizophlyctidales; f__Rhizophlyctidaceae; g__Rhizophlyctis; s__Rhizophlyctis_rosea
+	OTU_dn_1496	k__Fungi
+	OTU_dn_1498	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_1494	k__Fungi; p__Ascomycota
+	OTU_dn_1491	k__Fungi; p__Ascomycota
+	OTU_dn_1495	k__Fungi; p__Ascomycota
+	OTU_dn_1490	k__Fungi; p__Ascomycota
+id.temp	OTU_dn_3294	k__Fungi
+id.temp	SH003966.07FU_FN391350_reps	k__Fungi; p__Mortierellomycota; c__Mortierellomycetes; o__Mortierellales; f__Mortierellaceae; g__Mortierella; s__unidentified

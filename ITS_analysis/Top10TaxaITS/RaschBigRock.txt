@@ -1,0 +1,20 @@
+otuID	SilvaTaxonomy
+id.temp	SH010302.07FU_AF444350_refs	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Filobasidiales; f__Piskurozymaceae; g__Solicoccozyma
+id.temp	OTU_dn_2672	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+id.temp	SH025281.07FU_HG935126_reps	k__Fungi
+id.temp	SH490877.07FU_UDB014853_reps_singleton	k__Fungi; p__Ascomycota; c__Pezizomycetes; o__Pezizales
+id.temp	OTU_dn_3294	k__Fungi
+id.temp	OTU_dn_2995	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+id.temp	OTU_dn_1776	k__Fungi
+id.temp	OTU_dn_2425	k__Fungi; p__Ascomycota
+id.temp	OTU_dn_1682	k__Fungi; p__Mortierellomycota; c__Mortierellomycetes; o__Mortierellales; f__Mortierellaceae; g__Mortierella
+	OTU_dn_194	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_1942	k__Fungi; p__Ascomycota
+	OTU_dn_1943	k__Fungi; p__Ascomycota
+	OTU_dn_1940	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales; f__Chaetomiaceae; g__Dichotomopilus
+	OTU_dn_1946	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_1949	k__Fungi; p__Ascomycota
+	OTU_dn_1948	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_1944	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_1941	k__Fungi; p__Ascomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_1947	k__Fungi; p__Ascomycota

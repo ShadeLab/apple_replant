@@ -7,7 +7,7 @@ library(dplyr)
 library(tidyr)
 library(ggplot2)
 library(reshape)
-setwd('/Users/arifinabintarti/Documents/Parent/apple_replant/ITS analysis/')
+setwd('/Users/arifinabintarti/Documents/Parent/apple_replant/ITS_analysis/')
 wd <- print(getwd())
 otu <- read.table('single_rare_its.txt', sep='\t', header=T, row.names = 1)
 otu

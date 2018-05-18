@@ -1,0 +1,1375 @@
+otuID	SilvaTaxonomy
+id.temp	SH025281.07FU_HG935126_reps	k__Fungi
+id.temp	SH010302.07FU_AF444350_refs	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Filobasidiales; f__Piskurozymaceae; g__Solicoccozyma
+id.temp	OTU_dn_2672	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+id.temp	SH490877.07FU_UDB014853_reps_singleton	k__Fungi; p__Ascomycota; c__Pezizomycetes; o__Pezizales
+id.temp	OTU_dn_1029	k__Fungi; p__Mortierellomycota; c__Mortierellomycetes; o__Mortierellales; f__Mortierellaceae; g__Mortierella
+id.temp	OTU_dn_1682	k__Fungi; p__Mortierellomycota; c__Mortierellomycetes; o__Mortierellales; f__Mortierellaceae; g__Mortierella
+id.temp	OTU_dn_2995	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2995	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2425	k__Fungi; p__Ascomycota
+	OTU_dn_2672	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_259	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+	OTU_dn_2037	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales; f__Chaetomiaceae
+	OTU_dn_2783	k__Fungi; p__Mortierellomycota; c__Mortierellomycetes; o__Mortierellales; f__Mortierellaceae; g__Mortierella; s__unidentified
+	OTU_dn_24	k__Fungi; p__Ascomycota
+	OTU_dn_297	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Pleurotheciales; f__Pleurotheciaceae; g__Pleurotheciella; s__Pleurotheciella_rivularia
+	OTU_dn_250	k__Fungi; p__Ascomycota
+	OTU_dn_2	k__Fungi; p__Ascomycota
+	OTU_dn_23	k__Fungi; p__Ascomycota
+	OTU_dn_2553	k__Fungi
+	OTU_dn_29	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales
+	OTU_dn_22	k__Fungi; p__Ascomycota
+	OTU_dn_2627	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Filobasidiales; f__Piskurozymaceae; g__Solicoccozyma; s__Solicoccozyma_terrea
+	OTU_dn_2470	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium
+	OTU_dn_288	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Sebacinales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_252	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Cantharellales; f__Cantharellales_fam_Incertae_sedis; g__Minimedusa
+	OTU_dn_2486	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_281	k__Fungi
+	OTU_dn_2780	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_264	k__Fungi; p__Ascomycota
+	OTU_dn_231	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_203	k__Fungi; p__Ascomycota
+	OTU_dn_2905	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+	OTU_dn_2489	k__Fungi; p__Ascomycota
+	OTU_dn_241	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2062	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_245	k__Fungi; p__Ascomycota
+	OTU_dn_2049	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_206	k__Fungi; p__Ascomycota
+	OTU_dn_2548	k__Fungi; p__Mortierellomycota; c__Mortierellomycetes; o__Mortierellales; f__Mortierellaceae; g__unidentified; s__unidentified
+	OTU_dn_243	k__Fungi; p__Ascomycota
+	OTU_dn_244	k__Fungi; p__Ascomycota
+	OTU_dn_2934	k__Fungi; p__Ascomycota
+	OTU_dn_265	k__Fungi; p__Ascomycota
+	OTU_dn_2890	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2646	k__Fungi; p__Ascomycota
+	OTU_dn_2048	k__Fungi; p__Ascomycota
+	OTU_dn_2936	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales; f__Chaetomiaceae
+	OTU_dn_2520	k__Fungi; p__Ascomycota
+	OTU_dn_2452	k__Fungi
+	OTU_dn_247	k__Fungi; p__Ascomycota
+	OTU_dn_2807	k__Fungi; p__Ascomycota
+	OTU_dn_276	k__Fungi; p__Ascomycota
+	OTU_dn_2842	k__Fungi; p__Glomeromycota; c__Paraglomeromycetes; o__Paraglomerales; f__Paraglomeraceae; g__Paraglomus
+	OTU_dn_2398	k__Fungi; p__Ascomycota
+	OTU_dn_2084	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2781	k__Fungi; p__Ascomycota
+	OTU_dn_273	k__Fungi
+	OTU_dn_213	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2960	k__Fungi; p__Ascomycota
+	OTU_dn_2938	k__Fungi; p__Ascomycota
+	OTU_dn_2912	k__Fungi; p__Ascomycota
+	OTU_dn_2126	k__Fungi; p__Ascomycota
+	OTU_dn_202	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_294	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_284	k__Fungi; p__Ascomycota
+	OTU_dn_2073	k__Fungi; p__Ascomycota
+	OTU_dn_2203	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_207	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_255	k__Fungi; p__Mortierellomycota; c__Mortierellomycetes; o__Mortierellales; f__Mortierellaceae; g__Mortierella
+	OTU_dn_26	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Hypocreaceae; g__Trichoderma; s__Trichoderma_koningiopsis
+	OTU_dn_268	k__Fungi; p__Ascomycota
+	OTU_dn_218	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2541	k__Fungi; p__Mortierellomycota; c__Mortierellomycetes; o__Mortierellales
+	OTU_dn_2753	k__Fungi; p__Mortierellomycota; c__Mortierellomycetes; o__Mortierellales
+	OTU_dn_2569	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Coniochaetales; f__Coniochaetaceae; g__Coniochaeta; s__Coniochaeta_cateniformis
+	OTU_dn_227	k__Fungi; p__Ascomycota
+	OTU_dn_2695	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Glomeraceae; g__unidentified; s__unidentified
+	OTU_dn_2830	k__Fungi; p__Mortierellomycota; c__Mortierellomycetes; o__Mortierellales; f__Mortierellaceae; g__Mortierella
+	OTU_dn_256	k__Fungi; p__Ascomycota
+	OTU_dn_2427	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Marthamycetaceae; g__Propolis; s__Propolis_farinosa
+	OTU_dn_2317	k__Fungi; p__Ascomycota
+	OTU_dn_229	k__Fungi
+	OTU_dn_2122	k__Fungi; p__Ascomycota; c__Sordariomycetes
+	OTU_dn_2985	k__Fungi; p__Ascomycota
+	OTU_dn_2242	k__Fungi; p__Ascomycota
+	OTU_dn_219	k__Fungi; p__Ascomycota
+	OTU_dn_2385	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_27	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Cylindrocladiella; s__unidentified
+	OTU_dn_2006	k__Fungi; p__Ascomycota
+	OTU_dn_2712	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2729	k__Fungi; p__Ascomycota
+	OTU_dn_271	k__Fungi; p__Ascomycota
+	OTU_dn_221	k__Fungi; p__Ascomycota
+	OTU_dn_2069	k__Fungi; p__Ascomycota
+	OTU_dn_2914	k__Fungi; p__Ascomycota
+	OTU_dn_2863	k__Fungi; p__Ascomycota
+	OTU_dn_2087	k__Fungi; p__Ascomycota
+	OTU_dn_2441	k__Fungi; p__Ascomycota
+	OTU_dn_2542	k__Fungi; p__Glomeromycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_28	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2552	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Glomeraceae
+	OTU_dn_2755	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_280	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2983	k__Fungi
+	OTU_dn_2016	k__Fungi; p__Basidiomycota; c__Tremellomycetes
+	OTU_dn_2959	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Glomeraceae; g__unidentified; s__unidentified
+	OTU_dn_214	k__Fungi; p__Ascomycota
+	OTU_dn_2889	k__Fungi; p__Ascomycota
+	OTU_dn_2418	k__Fungi; p__Ascomycota
+	OTU_dn_2257	k__Fungi; p__Ascomycota
+	OTU_dn_237	k__Fungi; p__Ascomycota
+	OTU_dn_2720	k__Fungi; p__Ascomycota
+	OTU_dn_2443	k__Fungi; p__Ascomycota
+	OTU_dn_2103	k__Fungi; p__Ascomycota
+	OTU_dn_2182	k__Fungi; p__Ascomycota
+	OTU_dn_242	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2253	k__Fungi; p__Ascomycota
+	OTU_dn_267	k__Fungi; p__Ascomycota
+	OTU_dn_2305	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales; f__Orbiliaceae; g__Orbilia; s__unidentified
+	OTU_dn_200	k__Fungi; p__Ascomycota
+	OTU_dn_2030	k__Fungi; p__Ascomycota
+	OTU_dn_2915	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2583	k__Fungi; p__Ascomycota
+	OTU_dn_2786	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2855	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Claroideoglomeraceae; g__Claroideoglomus; s__unidentified
+	OTU_dn_2092	k__Fungi; p__Ascomycota
+	OTU_dn_239	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae; g__Exophiala; s__Exophiala_salmonis
+	OTU_dn_2402	k__Fungi; p__Ascomycota
+	OTU_dn_2331	k__Fungi; p__Ascomycota; c__Saccharomycetes; o__Saccharomycetales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2136	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2051	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2417	k__Fungi; p__Ascomycota
+	OTU_dn_2312	k__Fungi; p__Ascomycota
+	OTU_dn_2386	k__Fungi; p__Ascomycota
+	OTU_dn_2133	k__Fungi; p__Ascomycota
+	OTU_dn_2400	k__Fungi; p__Ascomycota
+	OTU_dn_2618	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Tricholomataceae; g__Clitocybe; s__unidentified
+	OTU_dn_282	k__Fungi; p__Ascomycota
+	OTU_dn_2119	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales; f__Lasiosphaeriaceae
+	OTU_dn_238	k__Fungi; p__Ascomycota
+	OTU_dn_2036	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Agaricaceae
+	OTU_dn_2770	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_220	k__Fungi; p__Ascomycota
+	OTU_dn_2750	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2508	k__Fungi; p__Ascomycota
+	OTU_dn_249	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales; f__Lasiosphaeriaceae; g__Schizothecium; s__Schizothecium_carpinicola
+	OTU_dn_21	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Sebacinales; f__Serendipitaceae
+	OTU_dn_2121	k__Fungi; p__Ascomycota
+	OTU_dn_2705	k__Fungi; p__Ascomycota
+	OTU_dn_2741	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2847	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2368	k__Fungi; p__Ascomycota
+	OTU_dn_2123	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2132	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Glomeraceae; g__unidentified; s__unidentified
+	OTU_dn_2524	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Glomeraceae; g__unidentified; s__unidentified
+	OTU_dn_292	k__Fungi; p__Mortierellomycota; c__Mortierellomycetes; o__Mortierellales; f__Mortierellaceae; g__Mortierella
+	OTU_dn_2131	k__Fungi; p__Ascomycota
+	OTU_dn_2260	k__Fungi; p__Ascomycota
+	OTU_dn_2744	k__Fungi; p__Mortierellomycota; c__Mortierellomycetes; o__Mortierellales; f__Mortierellaceae
+	OTU_dn_2607	k__Fungi; p__Ascomycota
+	OTU_dn_2274	k__Fungi; p__Ascomycota
+	OTU_dn_269	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2047	k__Fungi; p__Ascomycota
+	OTU_dn_2107	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2432	k__Fungi
+	OTU_dn_2503	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2751	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Psathyrellaceae; g__Psathyrella; s__Psathyrella_stercoraria
+	OTU_dn_2238	k__Fungi; p__Ascomycota
+	OTU_dn_2231	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales; f__Lasiosphaeriaceae
+	OTU_dn_2105	k__Fungi; p__Ascomycota
+	OTU_dn_2240	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2219	k__Fungi; p__Ascomycota
+	OTU_dn_226	k__Fungi; p__Ascomycota
+	OTU_dn_246	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2463	k__Fungi; p__Ascomycota
+	OTU_dn_2303	k__Fungi; p__Ascomycota
+	OTU_dn_2734	k__Fungi; p__Ascomycota
+	OTU_dn_2351	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2453	k__Fungi; p__Ascomycota; c__Pezizomycetes; o__Pezizales; f__Pezizaceae; g__Peziza; s__unidentified
+	OTU_dn_2413	k__Fungi
+	OTU_dn_2262	k__Fungi; p__Ascomycota
+	OTU_dn_2359	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2431	k__Fungi; p__Ascomycota
+	OTU_dn_2343	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2749	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2044	k__Fungi; p__Ascomycota
+	OTU_dn_2444	k__Fungi; p__Ascomycota
+	OTU_dn_2990	k__Fungi; p__Mortierellomycota; c__Mortierellomycetes; o__Mortierellales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2771	k__Fungi; p__Ascomycota
+	OTU_dn_2774	k__Fungi; p__Ascomycota
+	OTU_dn_2207	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2120	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Glomeraceae; g__unidentified; s__unidentified
+	OTU_dn_2473	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Leucosporidiales; f__Leucosporidiaceae; g__Leucosporidium
+	OTU_dn_2005	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales
+	OTU_dn_2958	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2098	k__Fungi; p__Ascomycota
+	OTU_dn_222	k__Fungi; p__Ascomycota
+	OTU_dn_2481	k__Fungi; p__Basidiomycota; c__Microbotryomycetes
+	OTU_dn_2403	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+	OTU_dn_2824	k__Fungi; p__Ascomycota
+	OTU_dn_2021	k__Fungi; p__Ascomycota
+	OTU_dn_2314	k__Fungi; p__Ascomycota
+	OTU_dn_2235	k__Fungi; p__Basidiomycota; c__Agaricomycetes
+	OTU_dn_2682	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_278	k__Fungi; p__Ascomycota
+	OTU_dn_211	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Bolbitiaceae; g__Conocybe
+	OTU_dn_279	k__Fungi; p__Ascomycota
+	OTU_dn_2094	k__Fungi
+	OTU_dn_2792	k__Fungi; p__Ascomycota
+	OTU_dn_2613	k__Fungi; p__Ascomycota
+	OTU_dn_2205	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2171	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Psathyrellaceae; g__Coprinellus; s__unidentified
+	OTU_dn_2619	k__Fungi; p__Ascomycota
+	OTU_dn_2591	k__Fungi; p__Ascomycota
+	OTU_dn_275	k__Fungi; p__Chytridiomycota; c__Rhizophlyctidomycetes; o__Rhizophlyctidales; f__Rhizophlyctidaceae; g__Rhizophlyctis; s__Rhizophlyctis_rosea
+	OTU_dn_2653	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Glomeraceae; g__unidentified; s__unidentified
+	OTU_dn_2898	k__Fungi; p__Ascomycota
+	OTU_dn_2211	k__Fungi; p__Ascomycota
+	OTU_dn_2683	k__Fungi
+	OTU_dn_2042	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_204	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2604	k__Fungi; p__Ascomycota
+	OTU_dn_2076	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2086	k__Fungi; p__Glomeromycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2372	k__Fungi; p__Ascomycota
+	OTU_dn_2595	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_272	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2527	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Claroideoglomeraceae; g__Claroideoglomus; s__unidentified
+	OTU_dn_2597	k__Fungi; p__Ascomycota
+	OTU_dn_2483	k__Fungi; p__Ascomycota
+	OTU_dn_2589	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2867	k__Fungi; p__Ascomycota
+	OTU_dn_2523	k__Fungi; p__Ascomycota
+	OTU_dn_2039	k__Fungi; p__Basidiomycota; c__Microbotryomycetes
+	OTU_dn_2451	k__Fungi; p__Ascomycota
+	OTU_dn_2224	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2294	k__Fungi; p__Ascomycota
+	OTU_dn_2255	k__Fungi; p__Ascomycota
+	OTU_dn_2885	k__Fungi; p__Ascomycota
+	OTU_dn_2926	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Marthamycetaceae; g__Propolis; s__Propolis_farinosa
+	OTU_dn_2760	k__Fungi; p__Ascomycota
+	OTU_dn_2775	k__Fungi
+	OTU_dn_2880	k__Fungi; p__Ascomycota
+	OTU_dn_2941	k__Fungi; p__Ascomycota
+	OTU_dn_2594	k__Fungi
+	OTU_dn_2078	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_266	k__Fungi; p__Ascomycota
+	OTU_dn_2758	k__Fungi; p__Ascomycota
+	OTU_dn_286	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2261	k__Fungi; p__Ascomycota
+	OTU_dn_2215	k__Fungi; p__Ascomycota
+	OTU_dn_2888	k__Fungi; p__Ascomycota
+	OTU_dn_2249	k__Fungi; p__Ascomycota
+	OTU_dn_2765	k__Fungi; p__Ascomycota
+	OTU_dn_2056	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2226	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2374	k__Fungi; p__Ascomycota
+	OTU_dn_2304	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2791	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2201	k__Fungi
+	OTU_dn_2845	k__Fungi; p__Ascomycota
+	OTU_dn_2558	k__Fungi; p__Ascomycota
+	OTU_dn_2778	k__Fungi; p__Ascomycota
+	OTU_dn_2209	k__Fungi; p__Ascomycota
+	OTU_dn_2010	k__Fungi; p__Ascomycota
+	OTU_dn_2766	k__Fungi; p__Ascomycota
+	OTU_dn_2820	k__Fungi; p__Ascomycota
+	OTU_dn_2129	k__Fungi; p__Ascomycota
+	OTU_dn_2323	k__Fungi; p__Ascomycota
+	OTU_dn_2638	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Entolomataceae
+	OTU_dn_2277	k__Fungi; p__Ascomycota
+	OTU_dn_2267	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2624	k__Fungi; p__Ascomycota
+	OTU_dn_2813	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2632	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2853	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Boletales; f__Boletaceae; g__Xerocomellus
+	OTU_dn_236	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+	OTU_dn_2271	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2561	k__Fungi; p__Ascomycota
+	OTU_dn_2079	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2694	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2265	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_209	k__Fungi; p__Glomeromycota; c__Archaeosporomycetes; o__Archaeosporales; f__Archaeosporaceae; g__unidentified; s__unidentified
+	OTU_dn_2575	k__Fungi; p__Ascomycota
+	OTU_dn_2469	k__Fungi; p__Ascomycota
+	OTU_dn_2198	k__Fungi; p__Ascomycota
+	OTU_dn_2439	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2718	k__Fungi; p__Ascomycota
+	OTU_dn_217	k__Fungi; p__Ascomycota
+	OTU_dn_2884	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2353	k__Fungi; p__Ascomycota
+	OTU_dn_2651	k__Fungi; p__Ascomycota
+	OTU_dn_274	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2987	k__Fungi; p__Ascomycota
+	OTU_dn_2510	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2298	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Claroideoglomeraceae; g__Claroideoglomus; s__unidentified
+	OTU_dn_2992	k__Fungi; p__Ascomycota
+	OTU_dn_2162	k__Fungi; p__Ascomycota
+	OTU_dn_2482	k__Fungi; p__Ascomycota
+	OTU_dn_2690	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2784	k__Fungi; p__Ascomycota
+	OTU_dn_2828	k__Fungi; p__Ascomycota
+	OTU_dn_2437	k__Fungi
+	OTU_dn_2703	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2790	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Hypocreales_fam_Incertae_sedis; g__Rotiferophthora
+	OTU_dn_270	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2747	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2942	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2710	k__Fungi; p__Ascomycota
+	OTU_dn_2882	k__Fungi; p__Basidiomycota
+	OTU_dn_2825	k__Fungi
+	OTU_dn_2909	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales
+	OTU_dn_283	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2793	k__Fungi; p__Ascomycota
+	OTU_dn_2000	k__Fungi; p__Ascomycota
+	OTU_dn_2002	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2099	k__Fungi
+	OTU_dn_2476	k__Fungi; p__Ascomycota
+	OTU_dn_2724	k__Fungi; p__Ascomycota
+	OTU_dn_2500	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2997	k__Fungi; p__Ascomycota
+	OTU_dn_2102	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Tricholomataceae; g__Flagelloscypha
+	OTU_dn_2944	k__Fungi; p__Ascomycota; c__Sordariomycetes
+	OTU_dn_2513	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2507	k__Fungi; p__Ascomycota
+	OTU_dn_2728	k__Fungi; p__Ascomycota
+	OTU_dn_2708	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2020	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2939	k__Fungi; p__Ascomycota
+	OTU_dn_2137	k__Fungi; p__Ascomycota
+	OTU_dn_2138	k__Fungi; p__Ascomycota
+	OTU_dn_2164	k__Fungi; p__Ascomycota
+	OTU_dn_2673	k__Fungi; p__Ascomycota
+	OTU_dn_2819	k__Fungi; p__Ascomycota
+	OTU_dn_2148	k__Fungi; p__Ascomycota
+	OTU_dn_2661	k__Fungi; p__Ascomycota
+	OTU_dn_2080	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2422	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Eurotiales; f__Aspergillaceae; g__Penicillium; s__Penicillium_sumatraense
+	OTU_dn_290	k__Fungi; p__Ascomycota
+	OTU_dn_2642	k__Fungi
+	OTU_dn_2068	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Cantharellales; f__Ceratobasidiaceae
+	OTU_dn_2504	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Cortinariaceae; g__Cortinarius; s__unidentified
+	OTU_dn_2492	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2722	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2498	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2259	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2150	k__Fungi
+	OTU_dn_2071	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Pleosporaceae; g__Alternaria; s__Alternaria_kulundii
+	OTU_dn_2511	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales; f__Lasiosphaeriaceae; g__Cercophora
+	OTU_dn_2276	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Hypocreaceae; g__Trichoderma; s__Trichoderma_harzianum
+	OTU_dn_2733	k__Fungi; p__Ascomycota
+	OTU_dn_2841	k__Fungi; p__Ascomycota
+	OTU_dn_2946	k__Fungi; p__Ascomycota
+	OTU_dn_2457	k__Fungi
+	OTU_dn_2731	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales
+	OTU_dn_2232	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2252	k__Fungi; p__Chytridiomycota; c__Lobulomycetes; o__Lobulomycetales; f__Lobulomycetaceae; g__Lobulomyces
+	OTU_dn_2472	k__Fungi; p__Ascomycota
+	OTU_dn_2009	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2375	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2015	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2236	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2124	k__Fungi; p__Ascomycota
+	OTU_dn_2420	k__Fungi; p__Ascomycota
+	OTU_dn_2512	k__Fungi; p__Ascomycota
+	OTU_dn_2244	k__Fungi; p__Ascomycota
+	OTU_dn_2228	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Entolomataceae; g__Entoloma; s__Entoloma_rhodopolium
+	OTU_dn_2407	k__Fungi; p__Ascomycota
+	OTU_dn_2179	k__Fungi; p__Basidiomycota; c__Tremellomycetes
+	OTU_dn_2142	k__Fungi; p__Ascomycota
+	OTU_dn_210	k__Fungi; p__Ascomycota
+	OTU_dn_2799	k__Fungi; p__Ascomycota
+	OTU_dn_2698	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2052	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2347	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae; g__Exophiala; s__Exophiala_salmonis
+	OTU_dn_2465	k__Fungi; p__Ascomycota
+	OTU_dn_2074	k__Fungi; p__Ascomycota
+	OTU_dn_2448	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2299	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2447	k__Fungi; p__Ascomycota
+	OTU_dn_2067	k__Fungi; p__Glomeromycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2195	k__Fungi; p__Ascomycota
+	OTU_dn_2297	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2045	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Psathyrellaceae; g__Coprinellus; s__unidentified
+	OTU_dn_287	k__Fungi; p__Ascomycota
+	OTU_dn_2283	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2033	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2434	k__Fungi; p__Ascomycota
+	OTU_dn_2287	k__Fungi; p__Ascomycota
+	OTU_dn_2445	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2284	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2586	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2108	k__Fungi; p__Ascomycota
+	OTU_dn_2697	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2218	k__Fungi; p__Ascomycota
+	OTU_dn_2648	k__Fungi; p__Mortierellomycota; c__Mortierellomycetes; o__Mortierellales; f__Mortierellaceae; g__Mortierella
+	OTU_dn_2650	k__Fungi; p__Ascomycota
+	OTU_dn_2251	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Pleosporaceae; g__Alternaria; s__unidentified
+	OTU_dn_2829	k__Fungi; p__Ascomycota
+	OTU_dn_299	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2038	k__Fungi; p__Ascomycota
+	OTU_dn_2250	k__Fungi; p__Ascomycota
+	OTU_dn_2530	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2611	k__Fungi; p__Ascomycota
+	OTU_dn_2998	k__Fungi; p__Ascomycota
+	OTU_dn_2833	k__Fungi; p__Ascomycota
+	OTU_dn_2881	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales; f__Sordariaceae; g__unidentified; s__unidentified
+	OTU_dn_2336	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2320	k__Fungi; p__Mortierellomycota; c__Mortierellomycetes; o__Mortierellales; f__Mortierellaceae; g__Mortierella; s__Mortierella_zonata
+	OTU_dn_2756	k__Fungi; p__Ascomycota
+	OTU_dn_2860	k__Fungi; p__Ascomycota
+	OTU_dn_2993	k__Fungi; p__Ascomycota
+	OTU_dn_2971	k__Fungi; p__Ascomycota
+	OTU_dn_2313	k__Fungi; p__Ascomycota
+	OTU_dn_2838	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2311	k__Fungi; p__Ascomycota
+	OTU_dn_2996	k__Fungi; p__Ascomycota
+	OTU_dn_2757	k__Fungi; p__Ascomycota
+	OTU_dn_2306	k__Fungi; p__Ascomycota
+	OTU_dn_2702	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2316	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2727	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2737	k__Fungi
+	OTU_dn_2700	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2873	k__Fungi; p__Ascomycota
+	OTU_dn_2423	k__Fungi; p__Ascomycota
+	OTU_dn_2861	k__Fungi; p__Ascomycota
+	OTU_dn_2812	k__Fungi; p__Ascomycota
+	OTU_dn_215	k__Fungi; p__Ascomycota
+	OTU_dn_2475	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Glomeraceae; g__Glomus; s__unidentified
+	OTU_dn_2326	k__Fungi; p__Ascomycota
+	OTU_dn_2075	k__Fungi; p__Ascomycota
+	OTU_dn_2707	k__Fungi; p__Ascomycota
+	OTU_dn_2054	k__Fungi; p__Ascomycota
+	OTU_dn_2318	k__Fungi; p__Ascomycota
+	OTU_dn_2200	k__Fungi; p__Ascomycota
+	OTU_dn_2691	k__Fungi; p__Chytridiomycota; c__Spizellomycetes; o__Spizellomycetales
+	OTU_dn_2948	k__Fungi; p__Glomeromycota; c__Paraglomeromycetes; o__Paraglomerales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2014	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales; f__Orbiliaceae; g__Hyalorbilia; s__Hyalorbilia_inflatula
+	OTU_dn_2725	k__Fungi; p__Ascomycota
+	OTU_dn_2491	k__Fungi; p__Ascomycota
+	OTU_dn_2166	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2496	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2217	k__Fungi; p__Ascomycota
+	OTU_dn_2616	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2058	k__Fungi; p__Ascomycota
+	OTU_dn_2072	k__Fungi
+	OTU_dn_2428	k__Fungi; p__Ascomycota
+	OTU_dn_2438	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2307	k__Fungi; p__Chytridiomycota; c__Rhizophydiomycetes; o__Rhizophydiales; f__Rhizophydiaceae; g__Rhizophydium
+	OTU_dn_2258	k__Fungi; p__Ascomycota
+	OTU_dn_2665	k__Fungi; p__Ascomycota
+	OTU_dn_2199	k__Fungi; p__Ascomycota
+	OTU_dn_2608	k__Fungi; p__Ascomycota; c__Lecanoromycetes
+	OTU_dn_2547	k__Fungi; p__Ascomycota
+	OTU_dn_2854	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2658	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2196	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Glomeraceae; g__unidentified; s__unidentified
+	OTU_dn_2280	k__Fungi; p__Ascomycota
+	OTU_dn_2805	k__Fungi; p__Ascomycota
+	OTU_dn_2849	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Microdochiaceae; g__Microdochium
+	OTU_dn_2290	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2660	k__Fungi; p__Ascomycota
+	OTU_dn_2655	k__Fungi; p__Ascomycota
+	OTU_dn_2229	k__Fungi; p__Ascomycota
+	OTU_dn_2035	k__Fungi; p__Ascomycota
+	OTU_dn_2777	k__Fungi; p__Glomeromycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2545	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Glomeraceae; g__unidentified; s__unidentified
+	OTU_dn_2210	k__Fungi; p__Ascomycota
+	OTU_dn_2822	k__Fungi; p__Ascomycota
+	OTU_dn_2871	k__Fungi; p__Ascomycota
+	OTU_dn_2528	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2668	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2782	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Marthamycetaceae; g__Propolis; s__Propolis_farinosa
+	OTU_dn_2282	k__Fungi; p__Ascomycota
+	OTU_dn_2803	k__Fungi
+	OTU_dn_2827	k__Fungi; p__Ascomycota
+	OTU_dn_2301	k__Fungi; p__Chytridiomycota; c__Lobulomycetes; o__Lobulomycetales; f__Lobulomycetaceae
+	OTU_dn_2089	k__Fungi; p__Ascomycota
+	OTU_dn_2964	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2899	k__Fungi; p__Ascomycota
+	OTU_dn_2241	k__Fungi; p__Ascomycota
+	OTU_dn_2141	k__Fungi; p__Glomeromycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2053	k__Fungi; p__Ascomycota
+	OTU_dn_2927	k__Fungi; p__Ascomycota
+	OTU_dn_2967	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Glomeraceae
+	OTU_dn_2620	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Claroideoglomeraceae; g__Claroideoglomus; s__unidentified
+	OTU_dn_2436	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2023	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Xylariaceae; g__Hypoxylon; s__Hypoxylon_subdisciforme
+	OTU_dn_2026	k__Fungi; p__Ascomycota
+	OTU_dn_2302	k__Fungi; p__Ascomycota
+	OTU_dn_2170	k__Fungi; p__Ascomycota
+	OTU_dn_2582	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Eurotiales; f__Aspergillaceae; g__Penicillium; s__Penicillium_oxalicum
+	OTU_dn_2082	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Ophiocordycipitaceae; g__Haptocillium; s__Haptocillium_balanoides
+	OTU_dn_2070	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Myrmecridiales; f__Myrmecridiaceae; g__Myrmecridium
+	OTU_dn_2322	k__Fungi; p__Ascomycota
+	OTU_dn_2625	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2810	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2095	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2471	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Lyophyllaceae
+	OTU_dn_2310	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Glomeraceae; g__unidentified; s__unidentified
+	OTU_dn_2077	k__Fungi; p__Ascomycota
+	OTU_dn_2096	k__Fungi; p__Ascomycota
+	OTU_dn_2902	k__Fungi; p__Ascomycota
+	OTU_dn_2857	k__Fungi; p__Ascomycota
+	OTU_dn_2506	k__Fungi; p__Glomeromycota; c__Glomeromycetes
+	OTU_dn_253	k__Fungi; p__Ascomycota; c__Pezizomycetes; o__Pezizales; f__Pezizaceae; g__unidentified; s__unidentified
+	OTU_dn_2342	k__Fungi; p__Ascomycota
+	OTU_dn_2057	k__Fungi; p__Mortierellomycota; c__Mortierellomycetes; o__Mortierellales; f__Mortierellaceae; g__Mortierella; s__Mortierella_fatshederae
+	OTU_dn_2110	k__Fungi; p__Ascomycota
+	OTU_dn_2295	k__Fungi; p__Ascomycota
+	OTU_dn_2254	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2739	k__Fungi; p__Ascomycota
+	OTU_dn_2563	k__Fungi; p__Ascomycota
+	OTU_dn_2752	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Claroideoglomeraceae; g__Claroideoglomus; s__unidentified
+	OTU_dn_2246	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2485	k__Fungi; p__Ascomycota
+	OTU_dn_2186	k__Fungi; p__Ascomycota
+	OTU_dn_2536	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2415	k__Fungi; p__Chytridiomycota
+	OTU_dn_2643	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2772	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2779	k__Fungi; p__Ascomycota
+	OTU_dn_2388	k__Fungi; p__Ascomycota
+	OTU_dn_257	k__Fungi; p__Ascomycota
+	OTU_dn_2389	k__Fungi; p__Ascomycota
+	OTU_dn_2596	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2384	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Bionectriaceae; g__Peristomialis; s__Peristomialis_corynospora
+	OTU_dn_2636	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2868	k__Fungi; p__Ascomycota
+	OTU_dn_2706	k__Fungi; p__Ascomycota
+	OTU_dn_2626	k__Fungi; p__Ascomycota
+	OTU_dn_2982	k__Fungi; p__Ascomycota
+	OTU_dn_2401	k__Fungi; p__Ascomycota
+	OTU_dn_2578	k__Fungi; p__Basidiomycota; c__Agaricomycetes
+	OTU_dn_2382	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2617	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2424	k__Fungi; p__Ascomycota
+	OTU_dn_2097	k__Fungi; p__Ascomycota
+	OTU_dn_2392	k__Fungi; p__Ascomycota
+	OTU_dn_2116	k__Fungi; p__Basidiomycota; c__Cystobasidiomycetes; o__Erythrobasidiales; f__Erythrobasidiaceae; g__Erythrobasidium; s__unidentified
+	OTU_dn_2442	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2327	k__Fungi; p__Ascomycota
+	OTU_dn_2634	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2925	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2495	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales
+	OTU_dn_2462	k__Fungi; p__Ascomycota
+	OTU_dn_2184	k__Fungi; p__Ascomycota
+	OTU_dn_2801	k__Fungi; p__Ascomycota
+	OTU_dn_2592	k__Fungi; p__Ascomycota
+	OTU_dn_2412	k__Fungi; p__Ascomycota
+	OTU_dn_2190	k__Fungi; p__Ascomycota
+	OTU_dn_2937	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Psathyrellaceae; g__unidentified; s__unidentified
+	OTU_dn_2891	k__Fungi; p__Ascomycota
+	OTU_dn_2832	k__Fungi; p__Ascomycota
+	OTU_dn_2844	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Hypocreaceae; g__Trichoderma; s__Trichoderma_thelephoricola
+	OTU_dn_2656	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2869	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2085	k__Fungi; p__Ascomycota
+	OTU_dn_2214	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2197	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2532	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2535	k__Fungi
+	OTU_dn_2560	k__Fungi; p__Ascomycota
+	OTU_dn_2924	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2633	k__Fungi; p__Ascomycota
+	OTU_dn_2180	k__Fungi; p__Ascomycota
+	OTU_dn_2433	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2466	k__Fungi; p__Ascomycota
+	OTU_dn_2493	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2278	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Entolomataceae; g__Entoloma; s__unidentified
+	OTU_dn_2043	k__Fungi; p__Ascomycota
+	OTU_dn_2474	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium
+	OTU_dn_2234	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2414	k__Fungi; p__Ascomycota
+	OTU_dn_2165	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2003	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2161	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2380	k__Fungi; p__Mortierellomycota; c__Mortierellomycetes; o__Mortierellales; f__Mortierellaceae; g__Mortierella; s__Mortierella_beljakovae
+	OTU_dn_2176	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2735	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2709	k__Fungi; p__Ascomycota
+	OTU_dn_201	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2906	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2106	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2730	k__Fungi; p__Ascomycota
+	OTU_dn_2745	k__Fungi; p__Ascomycota
+	OTU_dn_2742	k__Fungi; p__Ascomycota
+	OTU_dn_2391	k__Fungi; p__Ascomycota
+	OTU_dn_2115	k__Fungi; p__Ascomycota
+	OTU_dn_2111	k__Fungi; p__Ascomycota
+	OTU_dn_2027	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2025	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2366	k__Fungi; p__Ascomycota
+	OTU_dn_2686	k__Fungi; p__Ascomycota
+	OTU_dn_2688	k__Fungi; p__Ascomycota
+	OTU_dn_2499	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2367	k__Fungi; p__Ascomycota
+	OTU_dn_2408	k__Fungi; p__Ascomycota
+	OTU_dn_2379	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2464	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2647	k__Fungi; p__Ascomycota
+	OTU_dn_2381	k__Fungi; p__Ascomycota
+	OTU_dn_2761	k__Fungi; p__Chytridiomycota
+	OTU_dn_2521	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2395	k__Fungi; p__Ascomycota
+	OTU_dn_2877	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2502	k__Fungi; p__Chytridiomycota; c__Lobulomycetes; o__Lobulomycetales; f__Lobulomycetaceae; g__Clydaea
+	OTU_dn_2950	k__Fungi; p__Ascomycota
+	OTU_dn_2371	k__Fungi; p__Ascomycota
+	OTU_dn_2963	k__Fungi; p__Ascomycota
+	OTU_dn_2029	k__Fungi; p__Kickxellomycota; c__Kickxellomycetes; o__Kickxellales; f__Kickxellaceae; g__Ramicandelaber; s__Ramicandelaber_taiwanensis
+	OTU_dn_2118	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2732	k__Fungi; p__Ascomycota
+	OTU_dn_2266	k__Fungi; p__Ascomycota
+	OTU_dn_2696	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2245	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2225	k__Fungi; p__Ascomycota
+	OTU_dn_2248	k__Fungi; p__Ascomycota
+	OTU_dn_2208	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2083	k__Fungi; p__Ascomycota
+	OTU_dn_2220	k__Fungi; p__Ascomycota
+	OTU_dn_2264	k__Fungi; p__Mortierellomycota; c__Mortierellomycetes; o__Mortierellales; f__Mortierellaceae; g__Mortierella
+	OTU_dn_2263	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Branch06; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2654	k__Fungi; p__Ascomycota
+	OTU_dn_2556	k__Fungi; p__Ascomycota
+	OTU_dn_2125	k__Fungi; p__Chytridiomycota; c__Spizellomycetes; o__Spizellomycetales
+	OTU_dn_2602	k__Fungi; p__Ascomycota
+	OTU_dn_2916	k__Fungi; p__Ascomycota
+	OTU_dn_2533	k__Fungi; p__Ascomycota
+	OTU_dn_2571	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2144	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Physalacriaceae; g__Armillaria; s__Armillaria_mellea
+	OTU_dn_2222	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2534	k__Fungi; p__Ascomycota
+	OTU_dn_2239	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2572	k__Fungi
+	OTU_dn_2585	k__Fungi; p__Ascomycota
+	OTU_dn_2947	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2831	k__Fungi; p__Ascomycota
+	OTU_dn_2004	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2715	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2509	k__Fungi; p__Ascomycota
+	OTU_dn_2907	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Cortinariaceae; g__Cortinarius
+	OTU_dn_2839	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2354	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2821	k__Fungi; p__Ascomycota
+	OTU_dn_2923	k__Fungi; p__Ascomycota
+	OTU_dn_2908	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Psathyrellaceae; g__unidentified; s__unidentified
+	OTU_dn_2826	k__Fungi; p__Ascomycota
+	OTU_dn_2834	k__Fungi; p__Ascomycota
+	OTU_dn_2147	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2896	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2522	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2874	k__Fungi; p__Ascomycota; c__Archaeorhizomycetes; o__Archaeorhizomycetales; f__Archaeorhizomycetaceae; g__Archaeorhizomyces; s__unidentified
+	OTU_dn_2859	k__Fungi; p__Ascomycota
+	OTU_dn_2637	k__Fungi; p__Chytridiomycota
+	OTU_dn_2081	k__Fungi; p__Ascomycota
+	OTU_dn_2028	k__Fungi
+	OTU_dn_2984	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2991	k__Fungi; p__Ascomycota
+	OTU_dn_2194	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2723	k__Fungi; p__Ascomycota
+	OTU_dn_2943	k__Fungi; p__Ascomycota
+	OTU_dn_2454	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2319	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2746	k__Fungi; p__Ascomycota
+	OTU_dn_2726	k__Fungi; p__Ascomycota
+	OTU_dn_2717	k__Fungi
+	OTU_dn_2850	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Cantharellales
+	OTU_dn_2091	k__Fungi; p__Ascomycota
+	OTU_dn_2957	k__Fungi; p__Ascomycota
+	OTU_dn_2894	k__Fungi; p__Ascomycota
+	OTU_dn_2114	k__Fungi; p__Ascomycota
+	OTU_dn_2104	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2818	k__Fungi; p__Ascomycota
+	OTU_dn_2848	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_293	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales
+	OTU_dn_2978	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2206	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2088	k__Fungi; p__Ascomycota
+	OTU_dn_2173	k__Fungi; p__Ascomycota
+	OTU_dn_2159	k__Fungi; p__Ascomycota
+	OTU_dn_2158	k__Fungi; p__Ascomycota
+	OTU_dn_2480	k__Fungi
+	OTU_dn_2012	k__Fungi; p__Ascomycota
+	OTU_dn_2488	k__Fungi; p__Ascomycota
+	OTU_dn_2369	k__Fungi; p__Ascomycota
+	OTU_dn_2961	k__Fungi; p__Ascomycota
+	OTU_dn_2018	k__Fungi; p__Ascomycota
+	OTU_dn_2013	k__Fungi; p__Ascomycota
+	OTU_dn_2986	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2163	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2154	k__Fungi; p__Ascomycota
+	OTU_dn_2153	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2378	k__Fungi; p__Ascomycota
+	OTU_dn_2966	k__Fungi; p__Ascomycota; c__Pezizomycetes; o__Pezizales; f__Pezizaceae; g__Peziza
+	OTU_dn_2168	k__Fungi; p__Ascomycota
+	OTU_dn_2979	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2363	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2024	k__Fungi; p__Ascomycota
+	OTU_dn_2484	k__Fungi; p__Rozellomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2968	k__Fungi; p__Ascomycota
+	OTU_dn_2974	k__Fungi; p__Ascomycota
+	OTU_dn_2973	k__Fungi; p__Ascomycota
+	OTU_dn_2945	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2377	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2629	k__Fungi; p__Ascomycota
+	OTU_dn_2514	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2515	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2970	k__Fungi; p__Ascomycota
+	OTU_dn_2525	k__Fungi; p__Ascomycota
+	OTU_dn_2994	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2286	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2989	k__Fungi; p__Ascomycota
+	OTU_dn_2340	k__Fungi; p__Ascomycota
+	OTU_dn_2519	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2980	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2505	k__Fungi; p__Ascomycota
+	OTU_dn_2972	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2022	k__Fungi; p__Ascomycota
+	OTU_dn_2955	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Diversisporales; f__Diversisporaceae; g__Diversispora
+	OTU_dn_2335	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2181	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Clavariaceae
+	OTU_dn_2337	k__Fungi; p__Ascomycota
+	OTU_dn_2007	k__Fungi; p__Ascomycota
+	OTU_dn_2338	k__Fungi; p__Ascomycota
+	OTU_dn_2719	k__Fungi; p__Ascomycota
+	OTU_dn_2406	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2430	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2440	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2019	k__Fungi; p__Ascomycota
+	OTU_dn_2404	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2628	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2221	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2160	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2815	k__Fungi; p__Ascomycota
+	OTU_dn_2050	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2296	k__Fungi; p__Ascomycota
+	OTU_dn_2177	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2281	k__Fungi; p__Ascomycota
+	OTU_dn_2183	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2759	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2811	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2328	k__Fungi; p__Ascomycota
+	OTU_dn_2149	k__Fungi; p__Ascomycota
+	OTU_dn_2152	k__Fungi; p__Ascomycota
+	OTU_dn_2175	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2157	k__Fungi; p__Ascomycota
+	OTU_dn_2456	k__Fungi; p__Ascomycota
+	OTU_dn_2233	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2852	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2840	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2808	k__Fungi; p__Ascomycota
+	OTU_dn_2662	k__Fungi; p__Ascomycota
+	OTU_dn_2764	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2659	k__Fungi
+	OTU_dn_2674	k__Fungi; p__Ascomycota
+	OTU_dn_2789	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Claroideoglomeraceae; g__Claroideoglomus; s__unidentified
+	OTU_dn_2935	k__Fungi; p__Ascomycota
+	OTU_dn_2901	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Physalacriaceae
+	OTU_dn_2675	k__Fungi; p__Ascomycota
+	OTU_dn_2677	k__Fungi; p__Ascomycota
+	OTU_dn_2913	k__Fungi; p__Ascomycota
+	OTU_dn_2213	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Polyporales; f__Steccherinaceae; g__Steccherinum; s__Steccherinum_bourdotii
+	OTU_dn_2676	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2795	k__Fungi
+	OTU_dn_2798	k__Fungi; p__Ascomycota
+	OTU_dn_2549	k__Fungi; p__Ascomycota
+	OTU_dn_2551	k__Fungi; p__Ascomycota
+	OTU_dn_2288	k__Fungi; p__Ascomycota
+	OTU_dn_2870	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Hymenochaetales; f__Hymenochaetaceae; g__Phellinopsis; s__Phellinopsis_junipericola
+	OTU_dn_2862	k__Fungi; p__Ascomycota
+	OTU_dn_2546	k__Fungi; p__Mucoromycota; c__Mucoromycetes; o__Mucorales; f__Pilobolaceae; g__Pilobolus; s__Pilobolus_lentiger
+	OTU_dn_2931	k__Fungi; p__Ascomycota
+	OTU_dn_2951	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Physalacriaceae
+	OTU_dn_2954	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2544	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Hypocreaceae; g__Trichoderma; s__Trichoderma_virens
+	OTU_dn_2836	k__Fungi; p__Ascomycota
+	OTU_dn_2279	k__Fungi; p__Ascomycota
+	OTU_dn_2903	k__Fungi; p__Ascomycota
+	OTU_dn_2802	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2872	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Physalacriaceae; g__Dactylosporina
+	OTU_dn_2911	k__Fungi; p__Ascomycota
+	OTU_dn_2883	k__Fungi; p__Ascomycota
+	OTU_dn_2895	k__Fungi; p__Ascomycota
+	OTU_dn_2897	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Polyporales; f__Podoscyphaceae; g__Hypochnicium
+	OTU_dn_2933	k__Fungi; p__Ascomycota; c__Sordariomycetes
+	OTU_dn_2539	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2269	k__Fungi; p__Ascomycota
+	OTU_dn_2156	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2878	k__Fungi; p__Ascomycota
+	OTU_dn_2573	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2893	k__Fungi; p__Ascomycota
+	OTU_dn_2292	k__Fungi; p__Ascomycota
+	OTU_dn_2887	k__Fungi; p__Ascomycota
+	OTU_dn_2345	k__Fungi; p__Ascomycota
+	OTU_dn_2904	k__Fungi; p__Ascomycota
+	OTU_dn_2419	k__Fungi; p__Chytridiomycota; c__Rhizophlyctidomycetes; o__Rhizophlyctidales; f__Rhizophlyctidaceae; g__Rhizophlyctis; s__Rhizophlyctis_rosea
+	OTU_dn_2645	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Thelephorales; f__Thelephoraceae; g__Tomentella; s__unidentified
+	OTU_dn_2291	k__Fungi; p__Ascomycota
+	OTU_dn_2309	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2687	k__Fungi; p__Mortierellomycota; c__Mortierellomycetes; o__Mortierellales; f__Mortierellaceae; g__Mortierella; s__Mortierella_hyalina
+	OTU_dn_2932	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2600	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2598	k__Fungi; p__Ascomycota
+	OTU_dn_2952	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2308	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2949	k__Fungi; p__Ascomycota
+	OTU_dn_2922	k__Fungi; p__Ascomycota
+	OTU_dn_2681	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Ophiostomatales; f__Ophiostomataceae
+	OTU_dn_2865	k__Fungi; p__Ascomycota
+	OTU_dn_2256	k__Fungi; p__Ascomycota
+	OTU_dn_2580	k__Fungi; p__Ascomycota
+	OTU_dn_2001	k__Fungi; p__Ascomycota
+	OTU_dn_2577	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2529	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2352	k__Fungi; p__Ascomycota
+	OTU_dn_2601	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Entolomataceae; g__Entoloma; s__Entoloma_caccabus
+	OTU_dn_2339	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2614	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2590	k__Fungi; p__Ascomycota
+	OTU_dn_2543	k__Fungi; p__Ascomycota
+	OTU_dn_2584	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2526	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2360	k__Fungi; p__Ascomycota
+	OTU_dn_2587	k__Fungi; p__Ascomycota
+	OTU_dn_2356	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Savoryellales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2355	k__Fungi; p__Ascomycota
+	OTU_dn_2576	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2357	k__Fungi; p__Ascomycota
+	OTU_dn_2538	k__Fungi; p__Chytridiomycota
+	OTU_dn_2178	k__Fungi; p__Ascomycota
+	OTU_dn_2341	k__Fungi; p__Ascomycota
+	OTU_dn_2574	k__Fungi; p__Ascomycota
+	OTU_dn_2599	k__Fungi; p__Ascomycota
+	OTU_dn_2612	k__Fungi; p__Ascomycota
+	OTU_dn_2606	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_2605	k__Fungi; p__Ascomycota
+	OTU_dn_2344	k__Fungi; p__Ascomycota
+	OTU_dn_2564	k__Fungi; p__Ascomycota
+	OTU_dn_2189	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales; f__Chaetomiaceae
+	OTU_dn_2396	k__Fungi; p__Ascomycota
+	OTU_dn_2011	k__Fungi
+	OTU_dn_2167	k__Fungi; p__Ascomycota
+	OTU_dn_2623	k__Fungi; p__Ascomycota
+	OTU_dn_2393	k__Fungi; p__Ascomycota
+	OTU_dn_2689	k__Fungi
+	OTU_dn_2671	k__Fungi; p__Ascomycota
+	OTU_dn_2680	k__Fungi; p__Ascomycota
+	OTU_dn_2559	k__Fungi; p__Ascomycota
+	OTU_dn_2678	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Xylariaceae; g__Hypoxylon; s__unidentified
+	OTU_dn_2663	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Hypocreales_fam_Incertae_sedis; g__Rotiferophthora
+	OTU_dn_2679	k__Fungi; p__Ascomycota
+	OTU_dn_2032	k__Fungi; p__Ascomycota
+	OTU_dn_2330	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2714	k__Fungi; p__Ascomycota
+	OTU_dn_2348	k__Fungi; p__Ascomycota
+	OTU_dn_2639	k__Fungi; p__Ascomycota
+	OTU_dn_2478	k__Fungi; p__Chytridiomycota; c__Spizellomycetes; o__Spizellomycetales; f__Spizellomycetaceae; g__Spizellomyces
+	OTU_dn_2449	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2635	k__Fungi; p__Ascomycota
+	OTU_dn_2101	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Bionectriaceae
+	OTU_dn_2461	k__Fungi; p__Ascomycota
+	OTU_dn_2325	k__Fungi; p__Ascomycota
+	OTU_dn_2886	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2416	k__Fungi; p__Ascomycota
+	OTU_dn_2450	k__Fungi; p__Ascomycota
+	OTU_dn_2332	k__Fungi; p__Ascomycota
+	OTU_dn_2113	k__Fungi; p__Ascomycota
+	OTU_dn_2059	k__Fungi; p__Ascomycota
+	OTU_dn_2329	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2429	k__Fungi; p__Ascomycota
+	OTU_dn_2459	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2333	k__Fungi; p__Ascomycota
+	OTU_dn_2139	k__Fungi; p__Ascomycota
+	OTU_dn_2145	k__Fungi; p__Ascomycota
+	OTU_dn_2146	k__Fungi; p__Ascomycota
+	OTU_dn_2143	k__Fungi; p__Ascomycota
+	OTU_dn_2293	k__Fungi; p__Ascomycota
+	OTU_dn_2713	k__Fungi; p__Ascomycota; c__Sordariomycetes
+	OTU_dn_2621	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2685	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Entolomataceae; g__Entoloma; s__Entoloma_sericatum
+	OTU_dn_2151	k__Fungi; p__Ascomycota
+	OTU_dn_2008	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Glomeraceae; g__unidentified; s__unidentified
+	OTU_dn_2172	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2169	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2930	k__Fungi; p__Ascomycota
+	OTU_dn_2657	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2390	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2421	k__Fungi; p__Chytridiomycota; c__Spizellomycetes; o__Spizellomycetales; f__Spizellomycetaceae; g__Spizellomyces
+	OTU_dn_2017	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_2622	k__Fungi; p__Ascomycota
+	OTU_dn_2858	k__Fungi; p__Ascomycota
+	OTU_dn_2767	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2140	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_2397	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_2565	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Didymosphaeriaceae
+id.temp	OTU_dn_3294	k__Fungi
+	OTU_dn_3224	k__Fungi
+	OTU_dn_37	k__Fungi; p__Ascomycota; c__Pezizomycetes; o__Pezizales; f__Pyronemataceae; g__Geopora; s__Geopora_nicaeensis
+	OTU_dn_3294	k__Fungi
+	OTU_dn_34	k__Fungi; p__Ascomycota
+	OTU_dn_38	k__Fungi; p__Ascomycota
+	OTU_dn_3314	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Cystofilobasidiales; f__Mrakiaceae; g__Udeniomyces
+	OTU_dn_3126	k__Fungi; p__Ascomycota
+	OTU_dn_311	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Onygenales; f__Onygenales_fam_Incertae_sedis; g__Spiromastix; s__unidentified
+	OTU_dn_3297	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Cystofilobasidiales; f__Mrakiaceae; g__Udeniomyces
+	OTU_dn_36	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Clavicipitaceae; g__Metarhizium; s__Metarhizium_anisopliae
+	OTU_dn_3382	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3420	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Bionectriaceae; g__Clonostachys; s__Clonostachys_rosea
+	OTU_dn_3	k__Fungi; p__Ascomycota
+	OTU_dn_3060	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_340	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae; g__Exophiala; s__Exophiala_salmonis
+	OTU_dn_3483	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Cystofilobasidiales
+	OTU_dn_3251	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3008	k__Fungi; p__Ascomycota
+	OTU_dn_3022	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_349	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_313	k__Fungi; p__Ascomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3299	k__Fungi; p__Rozellomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_332	k__Fungi; p__Ascomycota
+	OTU_dn_3196	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__unidentified; s__unidentified
+	OTU_dn_3438	k__Fungi; p__Mortierellomycota; c__Mortierellomycetes; o__Mortierellales; f__Mortierellaceae; g__unidentified; s__unidentified
+	OTU_dn_347	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_351	k__Fungi; p__Ascomycota
+	OTU_dn_322	k__Fungi; p__Ascomycota
+	OTU_dn_39	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Branch06; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_321	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_337	k__Fungi; p__Ascomycota
+	OTU_dn_3032	k__Fungi; p__Ascomycota
+	OTU_dn_3075	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Glomeraceae; g__unidentified; s__unidentified
+	OTU_dn_3182	k__Fungi; p__Ascomycota
+	OTU_dn_371	k__Fungi; p__Ascomycota
+	OTU_dn_307	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3173	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_32	k__Fungi; p__Mortierellomycota; c__Mortierellomycetes; o__Mortierellales; f__Mortierellaceae; g__Mortierella; s__Mortierella_hyalina
+	OTU_dn_3234	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Didymellaceae; g__Phoma; s__unidentified
+	OTU_dn_354	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_343	k__Fungi; p__Ascomycota
+	OTU_dn_358	k__Fungi; p__Ascomycota
+	OTU_dn_3066	k__Fungi; p__Ascomycota
+	OTU_dn_3030	k__Fungi; p__Ascomycota
+	OTU_dn_3090	k__Fungi; p__Ascomycota
+	OTU_dn_385	k__Fungi; p__Ascomycota
+	OTU_dn_3415	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_324	k__Fungi; p__Ascomycota
+	OTU_dn_3094	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Glomeraceae; g__unidentified; s__unidentified
+	OTU_dn_367	k__Fungi; p__Ascomycota
+	OTU_dn_3175	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_3309	k__Fungi
+	OTU_dn_388	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Hypocreaceae; g__Trichoderma; s__Trichoderma_virens
+	OTU_dn_3165	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_3498	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3368	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_3020	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_3235	k__Fungi; p__Ascomycota
+	OTU_dn_377	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_3217	k__Fungi; p__Ascomycota; c__Sordariomycetes
+	OTU_dn_3405	k__Fungi; p__Ascomycota
+	OTU_dn_320	k__Fungi; p__Ascomycota
+	OTU_dn_306	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_391	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_3028	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_31	k__Fungi; p__Ascomycota
+	OTU_dn_318	k__Fungi; p__Ascomycota
+	OTU_dn_3141	k__Fungi; p__Ascomycota; c__Sordariomycetes
+	OTU_dn_3286	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3398	k__Fungi; p__Ascomycota
+	OTU_dn_399	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Filobasidiales; f__Filobasidiaceae; g__Filobasidium; s__Filobasidium_magnum
+	OTU_dn_3296	k__Fungi; p__Ascomycota
+	OTU_dn_309	k__Fungi; p__Ascomycota
+	OTU_dn_3401	k__Fungi; p__Ascomycota
+	OTU_dn_3285	k__Fungi; p__Ascomycota
+	OTU_dn_335	k__Fungi; p__Ascomycota
+	OTU_dn_368	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Microbotryomycetes_ord_Incertae_sedis; f__Chrysozymaceae
+	OTU_dn_3279	k__Fungi; p__Ascomycota
+	OTU_dn_336	k__Fungi; p__Ascomycota
+	OTU_dn_3290	k__Fungi; p__Ascomycota
+	OTU_dn_359	k__Fungi; p__Ascomycota
+	OTU_dn_372	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Phaeosphaeriaceae
+	OTU_dn_3289	k__Fungi
+	OTU_dn_35	k__Fungi; p__Mortierellomycota; c__Mortierellomycetes; o__Mortierellales; f__Mortierellaceae; g__Mortierella
+	OTU_dn_3231	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_3292	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3264	k__Fungi; p__Ascomycota
+	OTU_dn_3432	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3222	k__Fungi; p__Ascomycota
+	OTU_dn_3158	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Diversisporales; f__Diversisporaceae; g__Diversispora
+	OTU_dn_3252	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_3325	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_3323	k__Fungi; p__Ascomycota
+	OTU_dn_3303	k__Fungi; p__Ascomycota
+	OTU_dn_3328	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_3319	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_3348	k__Fungi; p__Basidiomycota
+	OTU_dn_3451	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_3327	k__Fungi; p__Ascomycota
+	OTU_dn_3324	k__Fungi; p__Ascomycota
+	OTU_dn_316	k__Fungi; p__Ascomycota
+	OTU_dn_3301	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_3010	k__Fungi; p__Ascomycota
+	OTU_dn_383	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_3136	k__Fungi; p__Ascomycota
+	OTU_dn_3129	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusicolla; s__Fusicolla_violacea
+	OTU_dn_3133	k__Fungi; p__Ascomycota
+	OTU_dn_3131	k__Fungi; p__Ascomycota
+	OTU_dn_3176	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_362	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales; f__Orbiliaceae; g__Orbilia; s__unidentified
+	OTU_dn_370	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_3155	k__Fungi; p__Ascomycota
+	OTU_dn_352	k__Fungi; p__Ascomycota
+	OTU_dn_380	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_319	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Entolomataceae; g__Entoloma; s__unidentified
+	OTU_dn_3207	k__Fungi; p__Ascomycota
+	OTU_dn_3243	k__Fungi
+	OTU_dn_3493	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_33	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_3363	k__Fungi; p__Ascomycota
+	OTU_dn_369	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_3472	k__Fungi; p__Ascomycota
+	OTU_dn_3485	k__Fungi; p__Ascomycota
+	OTU_dn_3486	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Diversisporales; f__Diversisporaceae; g__unidentified; s__unidentified
+	OTU_dn_3132	k__Fungi; p__Ascomycota
+	OTU_dn_3477	k__Fungi; p__Ascomycota
+	OTU_dn_3375	k__Fungi; p__Ascomycota
+	OTU_dn_3384	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3501	k__Fungi; p__Ascomycota
+	OTU_dn_3503	k__Fungi; p__Ascomycota
+	OTU_dn_3386	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Claroideoglomeraceae; g__Claroideoglomus
+	OTU_dn_392	k__Fungi; p__Ascomycota
+	OTU_dn_346	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_3418	k__Fungi; p__Ascomycota
+	OTU_dn_3365	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Claroideoglomeraceae; g__Claroideoglomus; s__unidentified
+	OTU_dn_3460	k__Fungi; p__Ascomycota; c__Sordariomycetes
+	OTU_dn_3051	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_305	k__Fungi; p__Ascomycota
+	OTU_dn_308	k__Fungi; p__Ascomycota
+	OTU_dn_365	k__Fungi; p__Glomeromycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3500	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_3068	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3142	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales
+	OTU_dn_341	k__Fungi; p__Ascomycota
+	OTU_dn_3125	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_3073	k__Fungi; p__Mucoromycota; c__Endogonomycetes; o__Endogonales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3280	k__Fungi; p__Ascomycota
+	OTU_dn_3014	k__Fungi; p__Ascomycota
+	OTU_dn_3085	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_3101	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_3078	k__Fungi; p__Ascomycota
+	OTU_dn_3100	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales; f__Chaetomiaceae; g__Dichotomopilus
+	OTU_dn_3041	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_3074	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_386	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3077	k__Fungi; p__Ascomycota
+	OTU_dn_3127	k__Fungi; p__Ascomycota
+	OTU_dn_3122	k__Fungi; p__Ascomycota
+	OTU_dn_3081	k__Fungi; p__Ascomycota
+	OTU_dn_3102	k__Fungi; p__Ascomycota
+	OTU_dn_3113	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_363	k__Fungi; p__Ascomycota
+	OTU_dn_3219	k__Fungi; p__Ascomycota
+	OTU_dn_3096	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_3495	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Glomeraceae; g__unidentified; s__unidentified
+	OTU_dn_3114	k__Fungi; p__Ascomycota
+	OTU_dn_3004	k__Fungi; p__Ascomycota
+	OTU_dn_3210	k__Fungi; p__Ascomycota
+	OTU_dn_3065	k__Fungi
+	OTU_dn_393	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_3049	k__Fungi; p__Ascomycota
+	OTU_dn_3037	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_3040	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_395	k__Fungi; p__Ascomycota
+	OTU_dn_338	k__Fungi; p__Ascomycota
+	OTU_dn_376	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3105	k__Fungi; p__Ascomycota; c__Sordariomycetes
+	OTU_dn_3058	k__Fungi; p__Ascomycota
+	OTU_dn_3042	k__Fungi; p__Ascomycota
+	OTU_dn_348	k__Fungi; p__Chytridiomycota
+	OTU_dn_3124	k__Fungi; p__Ascomycota
+	OTU_dn_3069	k__Fungi; p__Ascomycota
+	OTU_dn_387	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3083	k__Fungi; p__Ascomycota; c__Sordariomycetes
+	OTU_dn_3465	k__Fungi; p__Ascomycota
+	OTU_dn_3245	k__Fungi; p__Ascomycota
+	OTU_dn_3236	k__Fungi; p__Ascomycota
+	OTU_dn_3016	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_364	k__Fungi
+	OTU_dn_384	k__Fungi; p__Ascomycota
+	OTU_dn_3198	k__Fungi; p__Ascomycota
+	OTU_dn_3211	k__Fungi; p__Ascomycota
+	OTU_dn_304	k__Fungi; p__Ascomycota
+	OTU_dn_3186	k__Fungi; p__Ascomycota
+	OTU_dn_3200	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_374	k__Fungi; p__Ascomycota
+	OTU_dn_3140	k__Fungi; p__Ascomycota
+	OTU_dn_3275	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales
+	OTU_dn_3138	k__Fungi; p__Ascomycota
+	OTU_dn_3273	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_3174	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_3241	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Pleosporaceae; g__Drechslera; s__unidentified
+	OTU_dn_3161	k__Fungi; p__Ascomycota
+	OTU_dn_3330	k__Fungi; p__Ascomycota
+	OTU_dn_3159	k__Fungi; p__Ascomycota
+	OTU_dn_3307	k__Fungi; p__Ascomycota
+	OTU_dn_3312	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_3331	k__Fungi
+	OTU_dn_3402	k__Fungi; p__Ascomycota
+	OTU_dn_3237	k__Fungi; p__Ascomycota
+	OTU_dn_382	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_3284	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_3283	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_3157	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3189	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Onygenales
+	OTU_dn_3271	k__Fungi; p__Chytridiomycota; c__Spizellomycetes; o__Spizellomycetales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_379	k__Fungi; p__Ascomycota
+	OTU_dn_3171	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Corticiales; f__Corticiaceae
+	OTU_dn_3304	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_3166	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Clavicipitaceae; g__Claviceps; s__Claviceps_sorghicola
+	OTU_dn_3194	k__Fungi; p__Ascomycota
+	OTU_dn_3488	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_3202	k__Fungi; p__Ascomycota
+	OTU_dn_3349	k__Fungi; p__Ascomycota
+	OTU_dn_3433	k__Fungi; p__Ascomycota
+	OTU_dn_3225	k__Fungi; p__Rozellomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3470	k__Fungi; p__Ascomycota
+	OTU_dn_3350	k__Fungi; p__Ascomycota
+	OTU_dn_3338	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_3385	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_3492	k__Fungi; p__Ascomycota
+	OTU_dn_3341	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_3408	k__Fungi; p__Ascomycota
+	OTU_dn_3351	k__Fungi; p__Ascomycota
+	OTU_dn_3394	k__Fungi
+	OTU_dn_3411	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_3308	k__Fungi; p__Ascomycota
+	OTU_dn_300	k__Fungi; p__Ascomycota
+	OTU_dn_3086	k__Fungi; p__Ascomycota
+	OTU_dn_3054	k__Fungi; p__Ascomycota
+	OTU_dn_3062	k__Fungi; p__Ascomycota
+	OTU_dn_3059	k__Fungi; p__Chytridiomycota; c__Lobulomycetes; o__Lobulomycetales; f__Lobulomycetaceae; g__Clydaea
+	OTU_dn_3118	k__Fungi; p__Ascomycota; c__Saccharomycetes; o__Saccharomycetales; f__Pichiaceae; g__Pichia; s__Pichia_kluyveri
+	OTU_dn_3006	k__Fungi; p__Ascomycota
+	OTU_dn_3067	k__Fungi; p__Ascomycota
+	OTU_dn_3089	k__Fungi; p__Ascomycota
+	OTU_dn_3027	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_3018	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Stereopsidales; f__Stereopsidaceae; g__Stereopsis; s__Stereopsis_radicans
+	OTU_dn_3029	k__Fungi; p__Ascomycota
+	OTU_dn_3288	k__Fungi; p__Ascomycota
+	OTU_dn_3007	k__Fungi
+	OTU_dn_331	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_394	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_3184	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3430	k__Fungi; p__Ascomycota; c__Sordariomycetes
+	OTU_dn_3434	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_339	k__Fungi; p__Ascomycota
+	OTU_dn_3334	k__Fungi; p__Ascomycota
+	OTU_dn_3346	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3377	k__Fungi; p__Ascomycota
+	OTU_dn_327	k__Fungi; p__Ascomycota
+	OTU_dn_355	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Ophiocordycipitaceae; g__unidentified; s__unidentified
+	OTU_dn_3379	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Eurotiales; f__Aspergillaceae; g__Penicillium
+	OTU_dn_3220	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_3478	k__Fungi; p__Ascomycota
+	OTU_dn_3168	k__Fungi; p__Ascomycota; c__Sordariomycetes
+	OTU_dn_3193	k__Fungi; p__Ascomycota
+	OTU_dn_326	k__Fungi; p__Ascomycota
+	OTU_dn_398	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_3305	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_3318	k__Fungi; p__Ascomycota
+	OTU_dn_3015	k__Fungi; p__Ascomycota
+	OTU_dn_3260	k__Fungi; p__Ascomycota
+	OTU_dn_3258	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_3274	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Glomeraceae; g__unidentified; s__unidentified
+	OTU_dn_3031	k__Fungi; p__Ascomycota
+	OTU_dn_3261	k__Fungi; p__Ascomycota
+	OTU_dn_3257	k__Fungi; p__Mortierellomycota; c__Mortierellomycetes; o__Mortierellales; f__Mortierellaceae; g__Mortierella
+	OTU_dn_3255	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_3295	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Claroideoglomeraceae; g__Claroideoglomus; s__unidentified
+	OTU_dn_3277	k__Fungi; p__Ascomycota
+	OTU_dn_3227	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Sebacinales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3461	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_3143	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Inocybaceae; g__Inocybe; s__unidentified
+	OTU_dn_3172	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3450	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_3019	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3110	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales; f__Orbiliaceae; g__Orbilia; s__unidentified
+	OTU_dn_3145	k__Fungi; p__Ascomycota
+	OTU_dn_3119	k__Fungi; p__Ascomycota
+	OTU_dn_3272	k__Fungi; p__Ascomycota
+	OTU_dn_356	k__Fungi; p__Ascomycota
+	OTU_dn_3160	k__Fungi; p__Ascomycota
+	OTU_dn_3437	k__Fungi; p__Ascomycota
+	OTU_dn_3044	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_3053	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_3250	k__Fungi; p__Ascomycota
+	OTU_dn_3487	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Claroideoglomeraceae
+	OTU_dn_3130	k__Fungi; p__Ascomycota
+	OTU_dn_3281	k__Fungi; p__Ascomycota
+	OTU_dn_3263	k__Fungi; p__Ascomycota
+	OTU_dn_303	k__Fungi; p__Ascomycota
+	OTU_dn_3270	k__Fungi; p__Ascomycota
+	OTU_dn_3163	k__Fungi; p__Chytridiomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3213	k__Fungi; p__Ascomycota
+	OTU_dn_3218	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_3239	k__Fungi; p__Ascomycota
+	OTU_dn_3491	k__Fungi; p__Ascomycota
+	OTU_dn_3278	k__Fungi; p__Ascomycota
+	OTU_dn_3370	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales; f__Orbiliaceae; g__Orbilia; s__unidentified
+	OTU_dn_3390	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Diversisporales; f__Diversisporaceae; g__unidentified; s__unidentified
+	OTU_dn_373	k__Fungi; p__Ascomycota
+	OTU_dn_3404	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_3425	k__Fungi; p__Ascomycota
+	OTU_dn_3362	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3035	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3091	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_375	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_3079	k__Fungi; p__Ascomycota
+	OTU_dn_3135	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3152	k__Fungi; p__Ascomycota
+	OTU_dn_3342	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Stachybotryaceae; g__Paramyrothecium; s__Paramyrothecium_roridum
+	OTU_dn_3419	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3199	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_3115	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_3000	k__Fungi; p__Basidiomycota; c__Tremellomycetes
+	OTU_dn_3021	k__Fungi; p__Ascomycota
+	OTU_dn_3046	k__Fungi; p__Ascomycota
+	OTU_dn_3057	k__Fungi
+	OTU_dn_3009	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_3230	k__Fungi; p__Ascomycota
+	OTU_dn_3276	k__Fungi; p__Ascomycota; c__Sordariomycetes
+	OTU_dn_3265	k__Fungi; p__Ascomycota
+	OTU_dn_3259	k__Fungi; p__Ascomycota
+	OTU_dn_3228	k__Fungi; p__Basidiomycota; c__Agaricomycetes
+	OTU_dn_3205	k__Fungi; p__Ascomycota
+	OTU_dn_3339	k__Fungi; p__Ascomycota
+	OTU_dn_3406	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Sebacinales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3469	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_3429	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_3356	k__Fungi; p__Ascomycota
+	OTU_dn_3381	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Pleurotheciales; f__Pleurotheciaceae; g__Pleurotheciella
+	OTU_dn_3353	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_3336	k__Fungi; p__Ascomycota
+	OTU_dn_3400	k__Fungi; p__Ascomycota
+	OTU_dn_3427	k__Fungi; p__Ascomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3391	k__Fungi; p__Basidiomycota; c__Tremellomycetes
+	OTU_dn_3444	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_3494	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_3359	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Apiosporaceae; g__Arthrinium; s__unidentified
+	OTU_dn_3403	k__Fungi; p__Ascomycota
+	OTU_dn_3474	k__Fungi; p__Ascomycota
+	OTU_dn_3344	k__Fungi; p__Basidiomycota; c__Agaricomycetes
+	OTU_dn_3426	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3424	k__Fungi; p__Ascomycota
+	OTU_dn_3448	k__Fungi; p__Ascomycota
+	OTU_dn_3431	k__Fungi; p__Ascomycota
+	OTU_dn_310	k__Fungi; p__Ascomycota
+	OTU_dn_3099	k__Fungi; p__Ascomycota
+	OTU_dn_3050	k__Fungi; p__Kickxellomycota; c__Kickxellomycetes; o__Kickxellales; f__Kickxellaceae; g__Ramicandelaber
+	OTU_dn_3107	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_3048	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3108	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_3039	k__Fungi; p__Ascomycota
+	OTU_dn_3034	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_396	k__Fungi; p__Ascomycota
+	OTU_dn_3038	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_3052	k__Fungi; p__Ascomycota
+	OTU_dn_3063	k__Fungi; p__Ascomycota
+	OTU_dn_3024	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3064	k__Fungi; p__Ascomycota
+	OTU_dn_3056	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Glomerellales; f__Plectosphaerellaceae; g__Acrostalagmus; s__Acrostalagmus_luteoalbus
+	OTU_dn_3026	k__Fungi; p__Ascomycota
+	OTU_dn_3061	k__Fungi; p__Ascomycota
+	OTU_dn_3045	k__Fungi; p__Ascomycota
+	OTU_dn_3043	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3012	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_3076	k__Fungi; p__Ascomycota
+	OTU_dn_3017	k__Fungi; p__Ascomycota
+	OTU_dn_3128	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Diversisporales; f__Diversisporaceae; g__Diversispora
+	OTU_dn_3116	k__Fungi; p__Ascomycota
+	OTU_dn_3001	k__Fungi; p__Ascomycota
+	OTU_dn_3003	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_3120	k__Fungi; p__Ascomycota
+	OTU_dn_3139	k__Fungi; p__Ascomycota
+	OTU_dn_3092	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_3093	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Hypocreaceae; g__Trichoderma; s__Trichoderma_harzianum
+	OTU_dn_3112	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3393	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3149	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Glomeraceae; g__unidentified; s__unidentified
+	OTU_dn_378	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Hymenogastraceae; g__Hebeloma; s__Hebeloma_nigellum
+	OTU_dn_3088	k__Fungi; p__Chytridiomycota; c__Spizellomycetes; o__Spizellomycetales; f__Spizellomycetaceae; g__Spizellomyces
+	OTU_dn_3147	k__Fungi; p__Chytridiomycota
+	OTU_dn_3180	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_3095	k__Fungi; p__Ascomycota
+	OTU_dn_3082	k__Fungi; p__Ascomycota
+	OTU_dn_3084	k__Fungi; p__Ascomycota
+	OTU_dn_3109	k__Fungi; p__Ascomycota
+	OTU_dn_3489	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_357	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3254	k__Fungi; p__Ascomycota
+	OTU_dn_3423	k__Fungi; p__Ascomycota
+	OTU_dn_3439	k__Fungi
+	OTU_dn_3229	k__Fungi; p__Ascomycota
+	OTU_dn_3422	k__Fungi; p__Ascomycota
+	OTU_dn_3454	k__Fungi; p__Ascomycota
+	OTU_dn_3397	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_3399	k__Fungi; p__Ascomycota
+	OTU_dn_3410	k__Fungi; p__Ascomycota
+	OTU_dn_3455	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3361	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Glomeraceae; g__unidentified; s__unidentified
+	OTU_dn_3458	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_3459	k__Fungi; p__Ascomycota
+	OTU_dn_3345	k__Fungi; p__Basidiomycota; c__Microbotryomycetes
+	OTU_dn_3360	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Pleosporaceae
+	OTU_dn_3453	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Ostropales; f__Stictidaceae; g__Ostropa; s__Ostropa_barbara
+	OTU_dn_3464	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_3440	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3226	k__Fungi; p__Chytridiomycota
+	OTU_dn_3463	k__Fungi; p__Ascomycota
+	OTU_dn_3435	k__Fungi; p__Ascomycota
+	OTU_dn_3452	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3347	k__Fungi; p__Ascomycota
+	OTU_dn_3371	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales
+	OTU_dn_3335	k__Fungi; p__Ascomycota; c__Sordariomycetes
+	OTU_dn_3358	k__Fungi; p__Ascomycota
+	OTU_dn_3343	k__Fungi
+	OTU_dn_3337	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Glomeraceae; g__Glomus; s__unidentified
+	OTU_dn_3352	k__Fungi; p__Ascomycota
+	OTU_dn_3355	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_3221	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_3476	k__Fungi; p__Ascomycota
+	OTU_dn_3395	k__Fungi; p__Ascomycota
+	OTU_dn_3354	k__Fungi; p__Ascomycota
+	OTU_dn_3392	k__Fungi; p__Ascomycota
+	OTU_dn_3388	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_3378	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_3238	k__Fungi
+	OTU_dn_3387	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3137	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Tricholomataceae; g__Tricholoma; s__unidentified
+	OTU_dn_3366	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_3374	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+	OTU_dn_3497	k__Fungi; p__Ascomycota
+	OTU_dn_3446	k__Fungi; p__Ascomycota
+	OTU_dn_3475	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_3499	k__Fungi; p__Ascomycota
+	OTU_dn_3490	k__Fungi
+	OTU_dn_3467	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Clavicipitaceae; g__Metarhizium
+	OTU_dn_3178	k__Fungi; p__Ascomycota
+	OTU_dn_3197	k__Fungi; p__Ascomycota
+	OTU_dn_3447	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+	OTU_dn_3185	k__Fungi; p__Ascomycota
+	OTU_dn_3183	k__Fungi; p__Ascomycota
+	OTU_dn_3208	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales
+	OTU_dn_3187	k__Fungi; p__Ascomycota
+	OTU_dn_3249	k__Fungi; p__Ascomycota
+	OTU_dn_3195	k__Fungi
+	OTU_dn_3247	k__Fungi; p__Ascomycota
+	OTU_dn_3215	k__Fungi
+	OTU_dn_3177	k__Fungi; p__Ascomycota
+	OTU_dn_3232	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_3214	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_3144	k__Fungi; p__Ascomycota
+	OTU_dn_3156	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Glomeraceae; g__unidentified; s__unidentified
+	OTU_dn_3153	k__Fungi; p__Ascomycota
+	OTU_dn_3306	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Leucosporidiales; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3326	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Polyporales
+	OTU_dn_3320	k__Fungi; p__Ascomycota
+	OTU_dn_3300	k__Fungi; p__Ascomycota
+	OTU_dn_3269	k__Fungi; p__Ascomycota
+	OTU_dn_3240	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Claussenomyces; s__unidentified
+	OTU_dn_3466	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_3376	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_3421	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+	OTU_dn_3407	k__Fungi; p__Ascomycota; c__Leotiomycetes
+	OTU_dn_3087	k__Fungi; p__Ascomycota; c__Sordariomycetes
