@@ -41,15 +41,20 @@ pielou <- h/log(s)
 
 map.div <- map
 
-dim(map)
-map1 <- map[c(1:55, 58:65, 68:75),]
-map2 <- map[c(56:57),]
-map3 <- map[c(66:67),]
-block=unique(map3[,"site_name"])
+map
+map1 <- map[1:43,]
+map2 <- map[c(31:38),]
+
+map3 <- map[c(50:53),]
+map4 <- map[c(46:47),]
+map5 <- map[c(54:55),]
+map6 <- map[c(56:57),]
+map7 <- map[c(68:75),]
+block=unique(map[,"site_name"])
 
 for (i in 1:length(block)){
   #subset the OTU table to only include those blocks
-  temp=otu[,map3[,"site_name"]==block[i]]
+  temp=otu[,map[,"site_name"]==block[i]]
   
   #how many samples in this block?
   samples=ncol(temp)
