@@ -20,7 +20,7 @@ http://drive5.com/usearch
 
 ```
 #decompress the reads
-gunzip *.gzfastq_quality_filter -q 30 -i mergedfastq/merged.fq -o mergedfastq/merged_fil.fq -p 50
+gunzip *.gz
 
 mkdir mergedfastq
 
@@ -116,7 +116,7 @@ Throughput  7227.0 seqs/sec.
 ```
 /mnt/research/rdp/public/thirdParty/usearch10.0.240_i86linux64 -usearch_global mergedfastq/denoised_nosigs_uniques_combined_merged.fasta -id 0.97 -db /mnt/research/ShadeLab/UNITE_v7.2/sh_refs_qiime_ver7_97_s_01.12.2017.fasta -strand plus -uc mergedfastq/ref_seqs.uc -dbmatched mergedfastq/closed_reference.fasta -notmatched mergedfastq/failed_closed.fq
 ```
-## Sort by size and then de novo OTU picking on sequences that failed to hit GreenGenes
+## Sort by size and then de novo OTU picking on sequences that failed to hit UNITE
 
 ```
 ./mnt/research/rdp/public/thirdParty/usearch10.0.240_i86linux64  -sortbysize mergedfastq/failed_closed.fq -fastaout mergedfastq/sorted_failed_closed.fq

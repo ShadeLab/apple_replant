@@ -115,33 +115,20 @@ sort(tapply(taxa_sums(sample_phylumRA), factor(tax_table(sample_phylumRA)[, "Phy
 #merge sample by site
 site_phyl <- merge_samples(taxa_otu_table_annotated, "site_name")
 sample_data(site_phyl)$site_name <- levels(sample_data(taxa_otu_table_annotated)$site_name)
-#merge taxa by rank
+#merge taxa by rank:
+# 1. Phylum
 site_phylum <- tax_glom(site_phyl, taxrank = "Phylum", NArm = FALSE)
 site_RA <- transform_sample_counts(site_phylum, function(x) 100 * x/sum(x))
 #plot bar
 plot_bar(site_RA, "site_name", fill="Phylum")
-
 # Sum of Phylum
 head(sort(tapply(taxa_sums(taxa_otu_table_annotated), factor(tax_table(taxa_otu_table_annotated)[, "Phylum"]), sum), decreasing = TRUE))
-
-
-find.top.taxa <- function(x,taxa){
-  require(phyloseq)
-  top.taxa <- tax_glom(x, taxa)
-  otu <- otu_table(t(top.taxa)) # remove the transformation if using a merge_sample object
-  tax <- tax_table(top.taxa)
-  j<-apply(otu,1,which.max)
-  k <- j[!duplicated(j)]
-  l <- data.frame(tax[k,])
-  m <- data.frame(otu[,k])
-  s <- as.name(taxa)
-  colnames(m) = l[,taxa]
-  n <- colnames(m)[apply(m,1,which.max)]
-  m[,taxa] <- n
-  return(m)
-}
-find.top.taxa(top.pdy,"Phylum")
-
+# 2. Specific Genus
+site_genus<-transform_sample_counts(site_phyl, function(x) 100 * x / sum(x))
+genus_RA <- subset_taxa(ps_gg_filt_RA, Genus =="g__Cylindrocarpon")
+genus_RA
+otu_table(genus_RA)
+tax_table(genus_RA)
 
 
 #samples name and variables
@@ -175,8 +162,19 @@ site_phyl <- merge_samples(taxa_otu_table_annotated, "site_name")
 sample_data(site_phyl)$site_name <- levels(sample_data(taxa_otu_table_annotated)$site_name)
 site_fungi_phyla = tax_glom(site_phyl, "Phylum", NArm = FALSE)
 site_fungi_phyla
-site_fungi_phyla_ab = transform_sample_counts(site_fungi_phyla, function(x) x/sum(x))
+site_fungi_phyla_ab = transform_sample_counts(site_fungi_phyla, function(x) 100 * x/sum(x))
 tax_table(site_fungi_phyla_ab)
+# 1. Clarksville
+site_fungi_phyla_ab = transform_sample_counts(site_fungi_phyla, function(x) 100 * x/sum(x))
+site_fungi_phyla_ab
+# How to see the taxonomy 
+C <- sort(get_taxa(site_fungi_phyla_ab, "Wells"),decreasing = TRUE)[1:10]
+C
+C10 <- prune_taxa(names(C), site_fungi_phyla_ab)
+tax_table(C10)
+
+
+
 #or
 abundances(site_fungi_phyla, "compositional")
 tax_table(site_fungi_phyla)
@@ -196,7 +194,6 @@ dim(otu.relative_each)
 site_phyl
 site_phyl_RA = transform_sample_counts(site_phyl, function(x) 100*x/sum(x))
 site_phyl_RA
-filter <- filter_taxa(site_phyl_RA, function(x) 100*x/sum(x), TRUE)
 C <- sort(get_taxa(site_phyl_RA, "Clarksville"), decreasing = TRUE)[1:10]
 C
 # How to see the taxonomy 
