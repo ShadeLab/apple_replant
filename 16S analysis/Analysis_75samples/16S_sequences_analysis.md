@@ -8,6 +8,9 @@ apple replant soil 16S DNA:  75 total files
 Moved apple replant sequences to working space for analysis
 ShadeLab/WorkingSpace/Bintarti/16S_analysis_apple_replant
 
+All analysis results are in this path : 
+/mnt/research/ShadeLab/WorkingSpace/Bintarti/16S_analysis_apple_replant
+
 
 
 # Part I: Clustering
