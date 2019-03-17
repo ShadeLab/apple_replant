@@ -1,0 +1,31 @@
+sample_code,date_collected,site_name,sample_location,cultivar,rootstock,replicate,orchard_block_number,year_planted,collector,pH,lime_index,P_ppm,K_ppm,Ca_ppm,Mg_ppm,NO3-N_ppm,NH4-N_ppm,OM_percent,sand_percent,silt_percent,clay_percent,soil_type,Lesion,Dagger,Ring,Pin,Stunt,Spiral,Tylenchs,Aphelenchs,Dorylaims,Monochs,Bacterial Feeders,Mycorrhizal Fungi,Oligochaetes
+C01,5/22/17,Clarksville,Root Zone,Schlect Spur,Emla 26,1,n/a,2007,Poley/Wilson,6.8,,76,277,1105,207,3,5.3,2.8,42.3,39.6,18.1,Loam,0,12,0,4,0,0,60,30,0,10,1240,96,8
+C02,5/22/17,Clarksville,Root Zone,Schlect Spur,Emla 26,2,n/a,2007,Poley/Wilson,7.3,,54,207,1251,232,10.4,3.6,2.3,46.3,36.7,17,Loam,0,8,0,2,0,0,36,16,8,12,672,16,0
+C03,5/22/17,Clarksville,Root Zone,Schlect Spur,Emla 26,3,n/a,2007,Poley/Wilson,7.6,,50,232,1362,241,10.1,4.5,2.3,46.4,36.6,17,Loam,4,20,0,0,0,0,100,40,10,10,2960,220,12
+C04,5/22/17,Clarksville,Root Zone,Schlect Spur,Emla 26,4,n/a,2007,Poley/Wilson,6.2,71,108,326,960,183,12.4,6.6,2.8,35.4,47.6,17,Loam,4,0,0,8,0,0,180,20,10,0,1380,12,8
+C05,5/22/17,Clarksville,Root Zone,Schlect Spur,Emla 26,5,n/a,2007,Poley/Wilson,6.2,71,86,321,963,204,10,6.8,2.7,39.4,45.6,15,Loam,36,0,0,0,0,0,60,40,0,0,3040,60,24
+C06,5/22/17,Clarksville,Root Zone,Schlect Spur,Emla 26,6,n/a,2007,Poley/Wilson,6.2,71,96,292,860,169,7.7,4.8,2.3,39.4,45.6,15,Loam,60,4,0,0,0,0,240,40,60,0,2100,28,0
+C07,5/22/17,Clarksville,Root Zone,Dandee Red,M9,1,n/a,2007,Poley/Wilson,6.6,72,108,252,1042,202,1,3.9,3,43.4,41.6,15,Loam,4,4,0,0,6,0,40,260,0,0,1520,72,0
+C08,5/22/17,Clarksville,Root Zone,Dandee Red,M9,2,n/a,2007,Poley/Wilson,6.6,72,84,307,950,192,4.9,4.3,2.3,41.4,43.6,15,Loam,4,4,0,0,0,0,24,8,16,8,928,16,40
+C09,5/22/17,Clarksville,Root Zone,Dandee Red,M9,3,n/a,2007,Poley/Wilson,6.4,71,84,327,827,199,9.8,5,2.3,45.4,39.6,15,Loam,12,8,0,14,0,0,20,40,20,10,1140,32,32
+C10,5/22/17,Clarksville,Root Zone,Dandee Red,M9,4,n/a,2007,Poley/Wilson,6.3,71,64,299,785,137,0.4,4,2.8,43.4,41.6,15,Loam,0,8,0,0,0,0,40,20,20,0,3560,24,44
+C11,5/22/17,Clarksville,Root Zone,Dandee Red,M9,5,n/a,2007,Poley/Wilson,6.3,70,74,278,759,130,5.8,5,2.7,44.4,41.6,14,Loam,4,150,0,8,0,0,8,16,4,32,472,40,0
+C12,5/22/17,Clarksville,Root Zone,Dandee Red,M9,6,n/a,2007,Poley/Wilson,6.3,71,71,325,737,130,0.4,4.1,2.2,45.4,40.6,14,Loam,24,24,0,0,0,0,4,16,8,28,1072,20,32
+C13,5/22/17,Clarksville,Root Zone,Honeycrisp,Nic 29,1,n/a,2006,Poley/Wilson,6.2,71,96,273,808,139,1.5,3.9,2,45.4,41.6,13,Loam,0,4,0,0,0,0,40,50,0,10,2160,20,0
+C14,5/22/17,Clarksville,Root Zone,Honeycrisp,Nic 29,2,n/a,2006,Poley/Wilson,6.3,72,93,233,859,154,12.1,5,2.2,45.4,41.6,13,Loam,8,4,4,0,0,0,4,36,0,0,712,20,4
+C15,5/22/17,Clarksville,Root Zone,Honeycrisp,Nic 29,3,n/a,2006,Poley/Wilson,6.3,70,86,302,856,155,0.3,4.4,2.5,41.4,43.6,15,Loam,0,8,0,18,0,0,20,120,0,0,1900,12,8
+C16,5/22/17,Clarksville,Root Zone,Honeycrisp,Nic 29,4,n/a,2006,Poley/Wilson,6.1,71,86,262,800,120,0.2,4.4,2.6,46.4,40.6,13,Loam,4,10,0,0,0,0,10,40,0,0,2060,20,20
+C17,5/22/17,Clarksville,Root Zone,Honeycrisp,Nic 29,5,n/a,2006,Poley/Wilson,6.6,71,90,265,905,139,6.1,5.9,2.5,47.4,38.7,13.9,Loam,4,2,0,0,0,0,40,50,20,20,1100,32,68
+C18,5/22/17,Clarksville,Root Zone,Honeycrisp,Nic 29,6,n/a,2006,Poley/Wilson,6.1,70,86,265,883,132,6,6.9,2.8,43.4,41.7,14.9,Loam,0,6,0,0,0,0,20,120,0,0,1320,8,84
+C19,5/22/17,Clarksville,Root Zone,Gibson Gold,Bud 9,1,n/a,2003,Poley/Wilson,6.5,71,100,237,933,154,0.3,3.8,2.2,45.2,38.6,16.2,Loam,36,0,0,0,0,0,40,20,0,0,1380,28,0
+C20,5/22/17,Clarksville,Root Zone,Gibson Gold,Bud 9,2,n/a,2003,Poley/Wilson,6.4,72,111,213,942,147,3,4.7,2,44.3,41.6,14.1,Loam,0,0,360,0,80,0,80,20,20,0,2280,200,0
+C21,5/22/17,Clarksville,Root Zone,Gibson Gold,Bud 9,3,n/a,2003,Poley/Wilson,6.4,71,96,208,931,140,8.3,5.2,2.3,47.3,39.6,13.1,Loam,20,22,10,0,0,0,20,40,10,0,1980,192,8
+C22,5/22/17,Clarksville,Root Zone,Gibson Gold,Bud 9,4,n/a,2003,Poley/Wilson,6.5,72,93,191,923,155,1.7,4.1,2.3,45.3,39.6,15.1,Loam,4,4,0,10,0,0,0,16,4,8,1056,36,4
+C23,5/22/17,Clarksville,Root Zone,Gibson Gold,Bud 9,5,n/a,2003,Poley/Wilson,6.8,,96,237,975,141,0.1,3.5,2.3,41.3,43.6,15.1,Loam,0,8,0,0,0,0,16,36,0,8,1008,28,8
+C24,5/22/17,Clarksville,Root Zone,Gibson Gold,Bud 9,6,n/a,2003,Poley/Wilson,6.6,71,7,236,938,134,0.2,3.4,2.4,49.3,37.6,13.1,Loam,0,28,0,0,8,8,40,10,0,20,2020,44,44
+C25,5/23/17,Clarksville,Drive Row bet Emla 26,n/a,n/a,1,n/a,n/a,Poley/Wilson,6.7,72,78,336,1101,226,6.6,7.8,4.3,38.3,45.6,16.1,Loam,10,2,0,0,0,0,60,0,40,0,3120,92,12
+C26,5/24/17,Clarksville,Drive Row bet Emla 26,n/a,n/a,2,n/a,n/a,Poley/Wilson,7,,64,293,1342,242,4.8,6.8,4.6,41.2,43.7,15.1,Loam,28,4,0,0,0,0,40,8,4,12,248,44,4
+C27,5/25/17,Clarksville,Drive Row bet M9,n/a,n/a,3,n/a,n/a,Poley/Wilson,6.3,70,96,246,994,183,4.5,5.7,3.7,44.2,40.7,15.1,Loam,8,34,0,6,0,0,8,0,4,8,1272,76,4
+C28,5/26/17,Clarksville,Drive Row bet Nic 29,n/a,n/a,4,n/a,n/a,Poley/Wilson,6.6,72,96,233,964,151,1.2,5.9,4.2,47.2,39.7,13.1,Loam,0,36,0,0,0,0,10,60,20,0,2000,44,28
+C29,5/27/17,Clarksville,Drive Row bet Nic 29,n/a,n/a,5,n/a,n/a,Poley/Wilson,6.3,71,86,256,986,149,7.3,5.9,3.9,41.2,43.7,15.1,Loam,0,0,0,0,0,0,32,16,4,20,1202,52,0
+C30,5/28/17,Clarksville,Drive Row bet Bud 9,n/a,n/a,6,n/a,n/a,Poley/Wilson,5.7,69,60,54,606,94,0.2,5.2,2.8,47.2,37.7,15.1,Loam,0,0,0,0,0,0,40,10,0,20,2080,100,8
