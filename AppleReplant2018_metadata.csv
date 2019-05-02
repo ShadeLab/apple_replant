@@ -1,0 +1,16 @@
+﻿"Treatments, including split plot variables:"
+A = trees removed in fall 2017; fallow in 2018
+B = trees removed in fall 2017; soybean cover in 2018
+C = trees removed in fall 2017; black oats cover in 2018
+"D = trees removed in fall 2017; oilseed radish cover, tilled under in 2018"
+E = herbicide kill trees before removal in 2018
+F = herbicide kill trees before removal followed by black oats cover in 2018
+G = trees removed in fall 2018
+L = old drive lane
+T = old tree row
+
+Notes:
+Each 22' by 42' trt(A-G)/rep(1-6) plot crosses an old drive lane (L) and an old tree row (T) split lengthwise (new rows will be planted on 11 foot spacing).
+2 composite samples (~10 cores each) were taken from each half (L or T) of the 42 plots for a total of 168 samples.
+"84 samples were delivered to the Shade Lab to sieve, reserving enough soil for microbial analysis and sending the remainder to the Soil Testing Lab."
+84 samples were delivered to the Quintanilla Lab for nematode analysis.
